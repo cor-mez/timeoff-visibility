@@ -1,0 +1,10 @@
+# Local data inputs (never publish)
+data/timeoff_foh.csv
+data/timeoff_boh.csv
+data/timeoff_export.csv
+data/*.pdf
+
+# Python
+__pycache__/
+venv/
+.env
