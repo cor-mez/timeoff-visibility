@@ -2,9 +2,16 @@ let activeView = "all";
 let calendarData = null;
 
 fetch("./calendar.json")
-  .then(res => res.json())
+  .then(res => {
+    // Capture last-modified timestamp
+    const lastModified = res.headers.get("Last-Modified");
+    if (lastModified) {
+      window.lastUpdated = new Date(lastModified);
+    }
+    return res.json();
+  })
   .then(data => {
-    calendarData = data;       // 🔑 store once
+    calendarData = data;
     render(calendarData);
   })
   .catch(err => {
@@ -16,6 +23,7 @@ function render(data) {
   const root = document.getElementById("calendar");
   root.innerHTML = "";
 
+  renderHeader(root);
   renderToggle(root);
 
   const byMonth = {};
@@ -70,13 +78,14 @@ function render(data) {
 
       if (data[iso] && data[iso][activeView]) {
         const info = data[iso][activeView];
+        const totalCount = info.count;
 
-        if (info.count > 0) {
-          cell.classList.add(colorClass(info.count));
+        if (totalCount > 0) {
+          cell.classList.add(colorClass(totalCount));
 
           const count = document.createElement("div");
           count.className = "day-count";
-          count.textContent = info.count;
+          count.textContent = totalCount;
           cell.appendChild(count);
 
           cell.onclick = () => {
@@ -100,6 +109,22 @@ function render(data) {
   });
 }
 
+function renderHeader(root) {
+  const header = document.createElement("div");
+  header.className = "helper-text";
+
+  if (window.lastUpdated) {
+    header.textContent =
+      "Last updated: " +
+      window.lastUpdated.toLocaleString(undefined, {
+        dateStyle: "medium",
+        timeStyle: "short"
+      });
+  }
+
+  root.appendChild(header);
+}
+
 function renderToggle(root) {
   const wrap = document.createElement("div");
   wrap.className = "toggle";
@@ -110,7 +135,7 @@ function renderToggle(root) {
     if (k === activeView) btn.classList.add("active");
     btn.onclick = () => {
       activeView = k;
-      render(calendarData);   // 🔑 re-render with data
+      render(calendarData);
     };
     wrap.appendChild(btn);
   });
