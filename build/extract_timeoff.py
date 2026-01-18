@@ -2,7 +2,7 @@ from pathlib import Path
 import csv
 import json
 import re
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from collections import defaultdict
 
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -115,9 +115,14 @@ def main():
             },
         }
 
+    payload = {
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "data": out,
+    }
+
     OUTPUT_JSON.parent.mkdir(parents=True, exist_ok=True)
     with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
-        json.dump(out, f, indent=2)
+        json.dump(payload, f, indent=2)
 
     print("calendar.json generated")
     print(f"Dates: {len(out)}")

@@ -1,22 +1,13 @@
 let activeView = "all";
 let calendarData = null;
+let lastUpdated = null;
 
 fetch("./calendar.json")
-  .then(res => {
-    // Capture last-modified timestamp
-    const lastModified = res.headers.get("Last-Modified");
-    if (lastModified) {
-      window.lastUpdated = new Date(lastModified);
-    }
-    return res.json();
-  })
-  .then(data => {
-    calendarData = data;
+  .then(res => res.json())
+  .then(payload => {
+    calendarData = payload.data;
+    lastUpdated = new Date(payload.generated_at);
     render(calendarData);
-  })
-  .catch(err => {
-    document.body.innerHTML =
-      "<h2>Error loading data</h2><pre>" + err.message + "</pre>";
   });
 
 function render(data) {
@@ -58,9 +49,7 @@ function render(data) {
     const firstDow = new Date(y, m - 1, 1).getDay();
     const daysInMonth = new Date(y, m, 0).getDate();
 
-    for (let i = 0; i < firstDow; i++) {
-      grid.appendChild(document.createElement("div"));
-    }
+    for (let i = 0; i < firstDow; i++) grid.appendChild(document.createElement("div"));
 
     const details = document.createElement("div");
     details.className = "month-details";
@@ -78,14 +67,13 @@ function render(data) {
 
       if (data[iso] && data[iso][activeView]) {
         const info = data[iso][activeView];
-        const totalCount = info.count;
 
-        if (totalCount > 0) {
-          cell.classList.add(colorClass(totalCount));
+        if (info.count > 0) {
+          cell.classList.add(colorClass(info.count));
 
           const count = document.createElement("div");
           count.className = "day-count";
-          count.textContent = totalCount;
+          count.textContent = info.count;
           cell.appendChild(count);
 
           cell.onclick = () => {
@@ -94,7 +82,7 @@ function render(data) {
               <strong>Approved (${info.approved.length})</strong>
               <ul>${info.approved.map(n => `<li>${n}</li>`).join("") || "<li>None</li>"}</ul>
               <strong>Pending (${info.pending.length})</strong>
-              <ul>${info.pending.map(n => `<li>${n}</li>`).join("") || "<li>None</li>"}</ul>
+              <ul>${info.pending.map(n => `<li class="pending">${n}</li>`).join("") || "<li>None</li>"}</ul>
             `;
           };
         }
@@ -110,19 +98,21 @@ function render(data) {
 }
 
 function renderHeader(root) {
-  const header = document.createElement("div");
-  header.className = "helper-text";
+  const wrap = document.createElement("div");
+  wrap.className = "helper-text tooltip";
+  wrap.textContent =
+    "Last updated: " +
+    lastUpdated.toLocaleString(undefined, {
+      dateStyle: "medium",
+      timeStyle: "short"
+    });
 
-  if (window.lastUpdated) {
-    header.textContent =
-      "Last updated: " +
-      window.lastUpdated.toLocaleString(undefined, {
-        dateStyle: "medium",
-        timeStyle: "short"
-      });
-  }
+  wrap.setAttribute(
+    "data-tooltip",
+    "Counts include approved and pending time-off requests. Toggle FOH/BOH to filter."
+  );
 
-  root.appendChild(header);
+  root.appendChild(wrap);
 }
 
 function renderToggle(root) {
