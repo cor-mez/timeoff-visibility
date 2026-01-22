@@ -5,13 +5,16 @@ let lastUpdated = null;
 fetch("./calendar.json")
   .then(res => res.json())
   .then(payload => {
-    calendarData = payload.data;
-    if (payload.generated_at) {
+    // Handle BOTH old and new JSON shapes safely
+    if (payload.generated_at && payload.data) {
+      calendarData = payload.data;
       const d = new Date(payload.generated_at);
-      if (!isNaN(d)) {
-        lastUpdated = d;
-      }
+      if (!isNaN(d)) lastUpdated = d;
+    } else {
+      // Old format fallback
+      calendarData = payload;
     }
+
     render(calendarData);
   })
   .catch(err => {
@@ -64,7 +67,7 @@ function render(data) {
 
     const details = document.createElement("div");
     details.className = "month-details";
-    details.innerHTML = "<em>Select a day</em>";
+    details.innerHTML = "<em>Click a day above</em>";
 
     for (let day = 1; day <= daysInMonth; day++) {
       const cell = document.createElement("div");
