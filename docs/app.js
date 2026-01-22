@@ -6,8 +6,17 @@ fetch("./calendar.json")
   .then(res => res.json())
   .then(payload => {
     calendarData = payload.data;
-    lastUpdated = new Date(payload.generated_at);
+    if (payload.generated_at) {
+      const d = new Date(payload.generated_at);
+      if (!isNaN(d)) {
+        lastUpdated = d;
+      }
+    }
     render(calendarData);
+  })
+  .catch(err => {
+    document.body.innerHTML =
+      "<h2>Error loading data</h2><pre>" + err.message + "</pre>";
   });
 
 function render(data) {
@@ -49,7 +58,9 @@ function render(data) {
     const firstDow = new Date(y, m - 1, 1).getDay();
     const daysInMonth = new Date(y, m, 0).getDate();
 
-    for (let i = 0; i < firstDow; i++) grid.appendChild(document.createElement("div"));
+    for (let i = 0; i < firstDow; i++) {
+      grid.appendChild(document.createElement("div"));
+    }
 
     const details = document.createElement("div");
     details.className = "month-details";
@@ -100,16 +111,21 @@ function render(data) {
 function renderHeader(root) {
   const wrap = document.createElement("div");
   wrap.className = "helper-text tooltip";
-  wrap.textContent =
-    "Last updated: " +
-    lastUpdated.toLocaleString(undefined, {
-      dateStyle: "medium",
-      timeStyle: "short"
-    });
+
+  if (lastUpdated) {
+    wrap.textContent =
+      "Last updated: " +
+      lastUpdated.toLocaleString(undefined, {
+        dateStyle: "medium",
+        timeStyle: "short"
+      });
+  } else {
+    wrap.textContent = "Last updated: updating…";
+  }
 
   wrap.setAttribute(
     "data-tooltip",
-    "Counts include approved and pending time-off requests. Toggle FOH/BOH to filter."
+    "Counts include approved and pending time-off requests. Use FOH/BOH to filter."
   );
 
   root.appendChild(wrap);
