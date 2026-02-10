@@ -1,688 +1,106 @@
 {
-  "generated_at": "2026-01-22T23:58:41.825496+00:00",
+  "generated_at": "2026-02-10T04:52:30.109416+00:00",
   "data": {
-    "2026-01-14": {
-      "all": {
-        "approved": [
-          "Britney Nova"
-        ],
-        "pending": [],
-        "count": 1
-      },
-      "foh": {
-        "approved": [
-          "Britney Nova"
-        ],
-        "pending": [],
-        "count": 1
-      },
-      "boh": {
-        "approved": [],
-        "pending": [],
-        "count": 0
-      }
-    },
-    "2026-01-15": {
-      "all": {
-        "approved": [
-          "Alexandria Lizardo",
-          "Britney Nova",
-          "Esperanza Alejandre"
-        ],
-        "pending": [],
-        "count": 3
-      },
-      "foh": {
-        "approved": [
-          "Alexandria Lizardo",
-          "Britney Nova",
-          "Esperanza Alejandre"
-        ],
-        "pending": [],
-        "count": 3
-      },
-      "boh": {
-        "approved": [],
-        "pending": [],
-        "count": 0
-      }
-    },
-    "2026-01-16": {
-      "all": {
-        "approved": [
-          "Alexandria Lizardo",
-          "Bianca Lewis",
-          "Britney Nova",
-          "Esperanza Alejandre",
-          "Paige Reyes",
-          "Samuel Tardibono"
-        ],
-        "pending": [],
-        "count": 6
-      },
-      "foh": {
-        "approved": [
-          "Alexandria Lizardo",
-          "Bianca Lewis",
-          "Britney Nova",
-          "Esperanza Alejandre",
-          "Paige Reyes",
-          "Samuel Tardibono"
-        ],
-        "pending": [],
-        "count": 6
-      },
-      "boh": {
-        "approved": [
-          "Paige Reyes"
-        ],
-        "pending": [],
-        "count": 1
-      }
-    },
-    "2026-01-17": {
-      "all": {
-        "approved": [
-          "Alexandria Lizardo",
-          "Bianca Lewis",
-          "Britney Nova",
-          "Esperanza Alejandre",
-          "Faith Stone",
-          "Paige Reyes",
-          "Samuel Tardibono"
-        ],
-        "pending": [],
-        "count": 7
-      },
-      "foh": {
-        "approved": [
-          "Alexandria Lizardo",
-          "Bianca Lewis",
-          "Britney Nova",
-          "Esperanza Alejandre",
-          "Faith Stone",
-          "Paige Reyes",
-          "Samuel Tardibono"
-        ],
-        "pending": [],
-        "count": 7
-      },
-      "boh": {
-        "approved": [
-          "Paige Reyes"
-        ],
-        "pending": [],
-        "count": 1
-      }
-    },
-    "2026-01-18": {
-      "all": {
-        "approved": [
-          "Alexandria Lizardo",
-          "Bianca Lewis",
-          "Britney Nova",
-          "Esperanza Alejandre",
-          "Faith Stone",
-          "Paige Reyes",
-          "Samuel Tardibono"
-        ],
-        "pending": [],
-        "count": 7
-      },
-      "foh": {
-        "approved": [
-          "Alexandria Lizardo",
-          "Bianca Lewis",
-          "Britney Nova",
-          "Esperanza Alejandre",
-          "Faith Stone",
-          "Paige Reyes",
-          "Samuel Tardibono"
-        ],
-        "pending": [],
-        "count": 7
-      },
-      "boh": {
-        "approved": [
-          "Paige Reyes"
-        ],
-        "pending": [],
-        "count": 1
-      }
-    },
-    "2026-01-19": {
-      "all": {
-        "approved": [
-          "Abigail Mojica",
-          "Britney Nova",
-          "Daemyn Ortega",
-          "Zuri Jover"
-        ],
-        "pending": [],
-        "count": 4
-      },
-      "foh": {
-        "approved": [
-          "Britney Nova",
-          "Zuri Jover"
-        ],
-        "pending": [],
-        "count": 2
-      },
-      "boh": {
-        "approved": [
-          "Abigail Mojica",
-          "Daemyn Ortega"
-        ],
-        "pending": [],
-        "count": 2
-      }
-    },
-    "2026-01-20": {
-      "all": {
-        "approved": [
-          "Cooper Fisken"
-        ],
-        "pending": [],
-        "count": 1
-      },
-      "foh": {
-        "approved": [
-          "Cooper Fisken"
-        ],
-        "pending": [],
-        "count": 1
-      },
-      "boh": {
-        "approved": [],
-        "pending": [],
-        "count": 0
-      }
-    },
-    "2026-01-21": {
-      "all": {
-        "approved": [
-          "Brinlee Guy",
-          "Criedynce Davis",
-          "Khalila Gilbert"
-        ],
-        "pending": [],
-        "count": 3
-      },
-      "foh": {
-        "approved": [
-          "Brinlee Guy",
-          "Criedynce Davis"
-        ],
-        "pending": [],
-        "count": 2
-      },
-      "boh": {
-        "approved": [
-          "Khalila Gilbert"
-        ],
-        "pending": [],
-        "count": 1
-      }
-    },
-    "2026-01-22": {
-      "all": {
-        "approved": [
-          "Alexandria Lizardo",
-          "Brinlee Guy",
-          "Criedynce Davis"
-        ],
-        "pending": [],
-        "count": 3
-      },
-      "foh": {
-        "approved": [
-          "Alexandria Lizardo",
-          "Brinlee Guy",
-          "Criedynce Davis"
-        ],
-        "pending": [],
-        "count": 3
-      },
-      "boh": {
-        "approved": [],
-        "pending": [],
-        "count": 0
-      }
-    },
-    "2026-01-23": {
-      "all": {
-        "approved": [
-          "Alexandria Lizardo",
-          "Aubrey Reed",
-          "Brinlee Guy",
-          "Criedynce Davis",
-          "Trevor Hoppes",
-          "Wesley Goss"
-        ],
-        "pending": [],
-        "count": 6
-      },
-      "foh": {
-        "approved": [
-          "Alexandria Lizardo",
-          "Aubrey Reed",
-          "Brinlee Guy",
-          "Criedynce Davis"
-        ],
-        "pending": [],
-        "count": 4
-      },
-      "boh": {
-        "approved": [
-          "Trevor Hoppes",
-          "Wesley Goss"
-        ],
-        "pending": [],
-        "count": 2
-      }
-    },
-    "2026-01-24": {
-      "all": {
-        "approved": [
-          "Alexandria Lizardo",
-          "Criedynce Davis",
-          "Natalia Cameron",
-          "Trevor Hoppes",
-          "Wesley Goss"
-        ],
-        "pending": [],
-        "count": 5
-      },
-      "foh": {
-        "approved": [
-          "Alexandria Lizardo",
-          "Criedynce Davis",
-          "Natalia Cameron"
-        ],
-        "pending": [],
-        "count": 3
-      },
-      "boh": {
-        "approved": [
-          "Trevor Hoppes",
-          "Wesley Goss"
-        ],
-        "pending": [],
-        "count": 2
-      }
-    },
-    "2026-01-25": {
-      "all": {
-        "approved": [
-          "Alexandria Lizardo",
-          "Criedynce Davis",
-          "Olivia Bell",
-          "Trevor Hoppes",
-          "Wesley Goss"
-        ],
-        "pending": [],
-        "count": 5
-      },
-      "foh": {
-        "approved": [
-          "Alexandria Lizardo",
-          "Criedynce Davis",
-          "Olivia Bell"
-        ],
-        "pending": [],
-        "count": 3
-      },
-      "boh": {
-        "approved": [
-          "Trevor Hoppes",
-          "Wesley Goss"
-        ],
-        "pending": [],
-        "count": 2
-      }
-    },
-    "2026-01-26": {
-      "all": {
-        "approved": [
-          "Avalon McCarthy",
-          "Criedynce Davis",
-          "Donna Rangel",
-          "Jaelyn Dunlap",
-          "Olivia Bell"
-        ],
-        "pending": [],
-        "count": 5
-      },
-      "foh": {
-        "approved": [
-          "Avalon McCarthy",
-          "Criedynce Davis",
-          "Donna Rangel",
-          "Olivia Bell"
-        ],
-        "pending": [],
-        "count": 4
-      },
-      "boh": {
-        "approved": [
-          "Donna Rangel",
-          "Jaelyn Dunlap"
-        ],
-        "pending": [],
-        "count": 2
-      }
-    },
-    "2026-01-27": {
-      "all": {
-        "approved": [
-          "Avalon McCarthy",
-          "Cooper Fisken",
-          "Criedynce Davis",
-          "Jaelyn Dunlap",
-          "Olivia Bell"
-        ],
-        "pending": [],
-        "count": 5
-      },
-      "foh": {
-        "approved": [
-          "Avalon McCarthy",
-          "Cooper Fisken",
-          "Criedynce Davis",
-          "Olivia Bell"
-        ],
-        "pending": [],
-        "count": 4
-      },
-      "boh": {
-        "approved": [
-          "Jaelyn Dunlap"
-        ],
-        "pending": [],
-        "count": 1
-      }
-    },
-    "2026-01-28": {
-      "all": {
-        "approved": [
-          "Avalon McCarthy",
-          "Criedynce Davis",
-          "Jaelyn Dunlap",
-          "Olivia Bell"
-        ],
-        "pending": [],
-        "count": 4
-      },
-      "foh": {
-        "approved": [
-          "Avalon McCarthy",
-          "Criedynce Davis",
-          "Olivia Bell"
-        ],
-        "pending": [],
-        "count": 3
-      },
-      "boh": {
-        "approved": [
-          "Jaelyn Dunlap"
-        ],
-        "pending": [],
-        "count": 1
-      }
-    },
-    "2026-01-29": {
-      "all": {
-        "approved": [
-          "Avalon McCarthy",
-          "Criedynce Davis",
-          "Donna Rangel",
-          "Drexil Beard",
-          "Jaelyn Dunlap",
-          "Maiken Schmidt",
-          "Olivia Bell"
-        ],
-        "pending": [],
-        "count": 7
-      },
-      "foh": {
-        "approved": [
-          "Avalon McCarthy",
-          "Criedynce Davis",
-          "Donna Rangel",
-          "Olivia Bell"
-        ],
-        "pending": [],
-        "count": 4
-      },
-      "boh": {
-        "approved": [
-          "Donna Rangel",
-          "Drexil Beard",
-          "Jaelyn Dunlap",
-          "Maiken Schmidt"
-        ],
-        "pending": [],
-        "count": 4
-      }
-    },
-    "2026-01-30": {
-      "all": {
-        "approved": [
-          "Aubrey Reed",
-          "Avalon McCarthy",
-          "Bianca Lewis",
-          "Criedynce Davis",
-          "Donna Rangel",
-          "Jaelyn Dunlap",
-          "Maiken Schmidt"
-        ],
-        "pending": [],
-        "count": 7
-      },
-      "foh": {
-        "approved": [
-          "Aubrey Reed",
-          "Avalon McCarthy",
-          "Bianca Lewis",
-          "Criedynce Davis",
-          "Donna Rangel"
-        ],
-        "pending": [],
-        "count": 5
-      },
-      "boh": {
-        "approved": [
-          "Donna Rangel",
-          "Jaelyn Dunlap",
-          "Maiken Schmidt"
-        ],
-        "pending": [],
-        "count": 3
-      }
-    },
-    "2026-01-31": {
-      "all": {
-        "approved": [
-          "Avalon McCarthy",
-          "Bianca Lewis",
-          "Criedynce Davis",
-          "Donna Rangel"
-        ],
-        "pending": [],
-        "count": 4
-      },
-      "foh": {
-        "approved": [
-          "Avalon McCarthy",
-          "Bianca Lewis",
-          "Criedynce Davis",
-          "Donna Rangel"
-        ],
-        "pending": [],
-        "count": 4
-      },
-      "boh": {
-        "approved": [
-          "Donna Rangel"
-        ],
-        "pending": [],
-        "count": 1
-      }
-    },
-    "2026-02-01": {
-      "all": {
-        "approved": [
-          "Avalon McCarthy",
-          "Donna Rangel"
-        ],
-        "pending": [],
-        "count": 2
-      },
-      "foh": {
-        "approved": [
-          "Avalon McCarthy",
-          "Donna Rangel"
-        ],
-        "pending": [],
-        "count": 2
-      },
-      "boh": {
-        "approved": [
-          "Donna Rangel"
-        ],
-        "pending": [],
-        "count": 1
-      }
-    },
     "2026-02-02": {
       "all": {
         "approved": [
-          "Avalon McCarthy",
-          "Donna Rangel",
           "Logan Pyatt"
-        ],
-        "pending": [],
-        "count": 3
-      },
-      "foh": {
-        "approved": [
-          "Avalon McCarthy",
-          "Donna Rangel",
-          "Logan Pyatt"
-        ],
-        "pending": [],
-        "count": 3
-      },
-      "boh": {
-        "approved": [
-          "Donna Rangel"
         ],
         "pending": [],
         "count": 1
+      },
+      "foh": {
+        "approved": [
+          "Logan Pyatt"
+        ],
+        "pending": [],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
       }
     },
     "2026-02-03": {
       "all": {
         "approved": [
-          "Donna Rangel",
-          "Logan Pyatt",
-          "Maiken Schmidt"
-        ],
-        "pending": [],
-        "count": 3
-      },
-      "foh": {
-        "approved": [
-          "Donna Rangel",
           "Logan Pyatt"
         ],
         "pending": [],
-        "count": 2
+        "count": 1
       },
-      "boh": {
+      "foh": {
         "approved": [
-          "Donna Rangel",
-          "Maiken Schmidt"
+          "Logan Pyatt"
         ],
         "pending": [],
-        "count": 2
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
       }
     },
     "2026-02-04": {
       "all": {
         "approved": [
-          "Donna Rangel",
-          "Jared Jensen",
-          "Logan Pyatt",
-          "Shalayna Swanson"
-        ],
-        "pending": [],
-        "count": 4
-      },
-      "foh": {
-        "approved": [
-          "Donna Rangel",
           "Logan Pyatt"
         ],
         "pending": [],
-        "count": 2
+        "count": 1
       },
-      "boh": {
+      "foh": {
         "approved": [
-          "Donna Rangel",
-          "Jared Jensen",
-          "Shalayna Swanson"
+          "Logan Pyatt"
         ],
         "pending": [],
-        "count": 3
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
       }
     },
     "2026-02-05": {
       "all": {
         "approved": [
-          "Donna Rangel",
           "Logan Pyatt"
-        ],
-        "pending": [],
-        "count": 2
-      },
-      "foh": {
-        "approved": [
-          "Donna Rangel",
-          "Logan Pyatt"
-        ],
-        "pending": [],
-        "count": 2
-      },
-      "boh": {
-        "approved": [
-          "Donna Rangel"
         ],
         "pending": [],
         "count": 1
+      },
+      "foh": {
+        "approved": [
+          "Logan Pyatt"
+        ],
+        "pending": [],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
       }
     },
     "2026-02-06": {
       "all": {
         "approved": [
-          "Blayne Stanley",
           "Isaiah Duran",
-          "Logan Pyatt",
-          "Natalia Cameron"
+          "Logan Pyatt"
         ],
         "pending": [],
-        "count": 4
+        "count": 2
       },
       "foh": {
         "approved": [
-          "Blayne Stanley",
           "Isaiah Duran",
-          "Logan Pyatt",
-          "Natalia Cameron"
+          "Logan Pyatt"
         ],
         "pending": [],
-        "count": 4
+        "count": 2
       },
       "boh": {
         "approved": [],
@@ -693,29 +111,23 @@
     "2026-02-07": {
       "all": {
         "approved": [
-          "Antonio Ortiz",
-          "Blayne Stanley",
-          "Elleet Velazquez",
           "Faith Stone",
           "Isaiah Duran",
           "Logan Pyatt",
           "Olivia Catanzaro"
         ],
         "pending": [],
-        "count": 7
+        "count": 4
       },
       "foh": {
         "approved": [
-          "Antonio Ortiz",
-          "Blayne Stanley",
-          "Elleet Velazquez",
           "Faith Stone",
           "Isaiah Duran",
           "Logan Pyatt",
           "Olivia Catanzaro"
         ],
         "pending": [],
-        "count": 7
+        "count": 4
       },
       "boh": {
         "approved": [],
@@ -772,18 +184,15 @@
     "2026-02-11": {
       "all": {
         "approved": [
-          "Maiken Schmidt",
-          "Ngan Hoang"
-        ],
-        "pending": [],
-        "count": 2
-      },
-      "foh": {
-        "approved": [
-          "Ngan Hoang"
+          "Maiken Schmidt"
         ],
         "pending": [],
         "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
       },
       "boh": {
         "approved": [
@@ -796,21 +205,17 @@
     "2026-02-12": {
       "all": {
         "approved": [
-          "Ngan Hoang"
-        ],
-        "pending": [
           "Sophia Hofer"
         ],
-        "count": 2
+        "pending": [],
+        "count": 1
       },
       "foh": {
         "approved": [
-          "Ngan Hoang"
-        ],
-        "pending": [
           "Sophia Hofer"
         ],
-        "count": 2
+        "pending": [],
+        "count": 1
       },
       "boh": {
         "approved": [],
@@ -822,24 +227,20 @@
       "all": {
         "approved": [
           "Lilly Pinnell",
-          "Ngan Hoang",
-          "Paige Reyes"
-        ],
-        "pending": [
+          "Paige Reyes",
           "Sophia Hofer"
         ],
-        "count": 4
+        "pending": [],
+        "count": 3
       },
       "foh": {
         "approved": [
           "Lilly Pinnell",
-          "Ngan Hoang",
-          "Paige Reyes"
-        ],
-        "pending": [
+          "Paige Reyes",
           "Sophia Hofer"
         ],
-        "count": 4
+        "pending": [],
+        "count": 3
       },
       "boh": {
         "approved": [
@@ -853,76 +254,63 @@
       "all": {
         "approved": [
           "Abigail Mojica",
-          "Ashlynn Voges",
-          "Maiken Schmidt",
-          "Ngan Hoang",
-          "Paige Wu"
-        ],
-        "pending": [
           "Addison Brumble",
-          "Aubrey Reed",
+          "Ashlynn Voges",
           "Daemyn Ortega",
           "Elleet Velazquez",
           "Hunter Bradley",
           "Jaelyn Dunlap",
+          "Maiken Schmidt",
           "Natalia Cameron",
+          "Paige Wu",
           "Sahara Brazelton",
           "Sophia Hofer",
-          "Tya Domenico",
-          "jillian Seitz"
+          "Tya Domenico"
         ],
-        "count": 16
+        "pending": [],
+        "count": 13
       },
       "foh": {
         "approved": [
-          "Ngan Hoang",
-          "Paige Wu"
-        ],
-        "pending": [
           "Addison Brumble",
-          "Aubrey Reed",
           "Elleet Velazquez",
           "Natalia Cameron",
+          "Paige Wu",
           "Sahara Brazelton",
-          "Sophia Hofer",
-          "jillian Seitz"
+          "Sophia Hofer"
         ],
-        "count": 9
+        "pending": [],
+        "count": 6
       },
       "boh": {
         "approved": [
           "Abigail Mojica",
           "Ashlynn Voges",
-          "Maiken Schmidt",
-          "Paige Wu"
-        ],
-        "pending": [
           "Daemyn Ortega",
           "Hunter Bradley",
           "Jaelyn Dunlap",
+          "Maiken Schmidt",
+          "Paige Wu",
           "Tya Domenico"
         ],
+        "pending": [],
         "count": 8
       }
     },
     "2026-02-15": {
       "all": {
         "approved": [
-          "Ngan Hoang"
-        ],
-        "pending": [
           "Sophia Hofer"
         ],
-        "count": 2
+        "pending": [],
+        "count": 1
       },
       "foh": {
         "approved": [
-          "Ngan Hoang"
-        ],
-        "pending": [
           "Sophia Hofer"
         ],
-        "count": 2
+        "pending": [],
+        "count": 1
       },
       "boh": {
         "approved": [],
@@ -955,20 +343,18 @@
       "all": {
         "approved": [
           "Caitlyn Callera",
-          "Collin Dwyer",
           "Juan Padilla Ruiz",
           "Keith Atkinson"
         ],
         "pending": [],
-        "count": 4
+        "count": 3
       },
       "foh": {
         "approved": [
-          "Caitlyn Callera",
-          "Collin Dwyer"
+          "Caitlyn Callera"
         ],
         "pending": [],
-        "count": 2
+        "count": 1
       },
       "boh": {
         "approved": [
@@ -982,17 +368,17 @@
     },
     "2026-02-18": {
       "all": {
-        "approved": [],
-        "pending": [
+        "approved": [
           "Sydney Schreiber"
         ],
+        "pending": [],
         "count": 1
       },
       "foh": {
-        "approved": [],
-        "pending": [
+        "approved": [
           "Sydney Schreiber"
         ],
+        "pending": [],
         "count": 1
       },
       "boh": {
@@ -1004,20 +390,18 @@
     "2026-02-19": {
       "all": {
         "approved": [
-          "Cooper Fisken"
-        ],
-        "pending": [
+          "Cooper Fisken",
           "Sydney Schreiber"
         ],
+        "pending": [],
         "count": 2
       },
       "foh": {
         "approved": [
-          "Cooper Fisken"
-        ],
-        "pending": [
+          "Cooper Fisken",
           "Sydney Schreiber"
         ],
+        "pending": [],
         "count": 2
       },
       "boh": {
@@ -1032,29 +416,30 @@
           "Bianca Lewis",
           "Blayne Stanley",
           "Britney Nova",
-          "Lilly Pinnell",
-          "Maurice Davis"
-        ],
-        "pending": [
+          "Ella Hamrick",
           "Jillian Lilak",
-          "SHAUN LE",
+          "Lilly Pinnell",
+          "Maurice Davis",
           "Sydney Schreiber"
         ],
-        "count": 8
+        "pending": [
+          "SHAUN LE"
+        ],
+        "count": 9
       },
       "foh": {
         "approved": [
           "Bianca Lewis",
           "Blayne Stanley",
           "Britney Nova",
-          "Lilly Pinnell",
-          "Maurice Davis"
-        ],
-        "pending": [
+          "Ella Hamrick",
           "Jillian Lilak",
+          "Lilly Pinnell",
+          "Maurice Davis",
           "Sydney Schreiber"
         ],
-        "count": 7
+        "pending": [],
+        "count": 8
       },
       "boh": {
         "approved": [],
@@ -1068,40 +453,40 @@
       "all": {
         "approved": [
           "Bianca Lewis",
-          "Blayne Stanley"
-        ],
-        "pending": [
+          "Blayne Stanley",
+          "Ella Hamrick",
           "Jaelyn Dunlap",
           "Jillian Lilak",
           "Lauren Teerlink",
-          "Maiken Schmidt",
-          "Ngan Hoang",
-          "SHAUN LE",
           "Savannah Lomeli",
           "Sydney Schreiber",
           "jillian Seitz"
+        ],
+        "pending": [
+          "Maiken Schmidt",
+          "SHAUN LE"
         ],
         "count": 11
       },
       "foh": {
         "approved": [
           "Bianca Lewis",
-          "Blayne Stanley"
-        ],
-        "pending": [
+          "Blayne Stanley",
+          "Ella Hamrick",
           "Jillian Lilak",
           "Lauren Teerlink",
-          "Ngan Hoang",
           "Savannah Lomeli",
           "Sydney Schreiber",
           "jillian Seitz"
         ],
+        "pending": [],
         "count": 8
       },
       "boh": {
-        "approved": [],
+        "approved": [
+          "Jaelyn Dunlap"
+        ],
         "pending": [
-          "Jaelyn Dunlap",
           "Maiken Schmidt",
           "SHAUN LE"
         ],
@@ -1110,35 +495,39 @@
     },
     "2026-02-22": {
       "all": {
-        "approved": [],
-        "pending": [
+        "approved": [
           "Jillian Lilak",
+          "Jose Flores",
           "jillian Seitz"
         ],
-        "count": 2
+        "pending": [],
+        "count": 3
       },
       "foh": {
-        "approved": [],
-        "pending": [
+        "approved": [
           "Jillian Lilak",
           "jillian Seitz"
         ],
+        "pending": [],
         "count": 2
       },
       "boh": {
-        "approved": [],
+        "approved": [
+          "Jose Flores"
+        ],
         "pending": [],
-        "count": 0
+        "count": 1
       }
     },
     "2026-02-23": {
       "all": {
         "approved": [
           "Cooper Fisken",
+          "Jose Flores",
           "Juan Padilla Ruiz"
         ],
         "pending": [],
-        "count": 2
+        "count": 3
       },
       "foh": {
         "approved": [
@@ -1149,10 +538,11 @@
       },
       "boh": {
         "approved": [
+          "Jose Flores",
           "Juan Padilla Ruiz"
         ],
         "pending": [],
-        "count": 1
+        "count": 2
       }
     },
     "2026-02-24": {
@@ -1201,21 +591,19 @@
       "all": {
         "approved": [
           "Cooper Fisken",
+          "Jon Hampton",
           "Natalia Cameron"
         ],
-        "pending": [
-          "Jon Hampton"
-        ],
+        "pending": [],
         "count": 3
       },
       "foh": {
         "approved": [
           "Cooper Fisken",
+          "Jon Hampton",
           "Natalia Cameron"
         ],
-        "pending": [
-          "Jon Hampton"
-        ],
+        "pending": [],
         "count": 3
       },
       "boh": {
@@ -1230,26 +618,26 @@
           "Blayne Stanley",
           "Cooper Fisken",
           "Jared Jensen",
+          "Jon Hampton",
+          "Kayla Erving",
           "Lilly Pinnell",
           "Maiken Schmidt",
           "Quinn P'Pool-Johnson"
         ],
-        "pending": [
-          "Jon Hampton"
-        ],
-        "count": 7
+        "pending": [],
+        "count": 8
       },
       "foh": {
         "approved": [
           "Blayne Stanley",
           "Cooper Fisken",
+          "Jon Hampton",
+          "Kayla Erving",
           "Lilly Pinnell",
           "Quinn P'Pool-Johnson"
         ],
-        "pending": [
-          "Jon Hampton"
-        ],
-        "count": 5
+        "pending": [],
+        "count": 6
       },
       "boh": {
         "approved": [
@@ -1264,34 +652,36 @@
       "all": {
         "approved": [
           "Blayne Stanley",
+          "Christian Cassell",
           "Cooper Fisken",
+          "Jaidyn Lee",
+          "Jon Hampton",
           "Quinn P'Pool-Johnson"
         ],
         "pending": [
-          "Christian Cassell",
-          "Jaidyn Lee",
-          "Jon Hampton"
+          "Trevor Hoppes"
         ],
-        "count": 6
+        "count": 7
       },
       "foh": {
         "approved": [
           "Blayne Stanley",
+          "Christian Cassell",
           "Cooper Fisken",
+          "Jon Hampton",
           "Quinn P'Pool-Johnson"
         ],
-        "pending": [
-          "Christian Cassell",
-          "Jon Hampton"
-        ],
+        "pending": [],
         "count": 5
       },
       "boh": {
-        "approved": [],
-        "pending": [
+        "approved": [
           "Jaidyn Lee"
         ],
-        "count": 1
+        "pending": [
+          "Trevor Hoppes"
+        ],
+        "count": 2
       }
     },
     "2026-03-01": {
@@ -1301,8 +691,10 @@
           "Maiken Schmidt",
           "Quinn P'Pool-Johnson"
         ],
-        "pending": [],
-        "count": 3
+        "pending": [
+          "Trevor Hoppes"
+        ],
+        "count": 4
       },
       "foh": {
         "approved": [
@@ -1316,8 +708,10 @@
         "approved": [
           "Maiken Schmidt"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Trevor Hoppes"
+        ],
+        "count": 2
       }
     },
     "2026-03-02": {
@@ -1326,22 +720,33 @@
           "Maiken Schmidt",
           "Quinn P'Pool-Johnson"
         ],
-        "pending": [],
-        "count": 2
+        "pending": [
+          "Jose Flores",
+          "Juan Padilla Ruiz",
+          "Luke Johnson",
+          "Trevor Hoppes"
+        ],
+        "count": 6
       },
       "foh": {
         "approved": [
           "Quinn P'Pool-Johnson"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Luke Johnson"
+        ],
+        "count": 2
       },
       "boh": {
         "approved": [
           "Maiken Schmidt"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Jose Flores",
+          "Juan Padilla Ruiz",
+          "Trevor Hoppes"
+        ],
+        "count": 4
       }
     },
     "2026-03-03": {
@@ -1350,21 +755,30 @@
           "Aubrey Reed",
           "Madison Wilkie"
         ],
-        "pending": [],
-        "count": 2
+        "pending": [
+          "Jose Flores",
+          "Juan Padilla Ruiz",
+          "Luke Johnson"
+        ],
+        "count": 5
       },
       "foh": {
         "approved": [
           "Aubrey Reed",
           "Madison Wilkie"
         ],
-        "pending": [],
-        "count": 2
+        "pending": [
+          "Luke Johnson"
+        ],
+        "count": 3
       },
       "boh": {
         "approved": [],
-        "pending": [],
-        "count": 0
+        "pending": [
+          "Jose Flores",
+          "Juan Padilla Ruiz"
+        ],
+        "count": 2
       }
     },
     "2026-03-04": {
@@ -1372,47 +786,122 @@
         "approved": [
           "Maiken Schmidt"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Jose Flores",
+          "Juan Padilla Ruiz",
+          "Luke Johnson"
+        ],
+        "count": 4
       },
       "foh": {
         "approved": [],
-        "pending": [],
-        "count": 0
+        "pending": [
+          "Luke Johnson"
+        ],
+        "count": 1
       },
       "boh": {
         "approved": [
           "Maiken Schmidt"
         ],
-        "pending": [],
+        "pending": [
+          "Jose Flores",
+          "Juan Padilla Ruiz"
+        ],
+        "count": 3
+      }
+    },
+    "2026-03-05": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Jose Flores",
+          "Juan Padilla Ruiz",
+          "Luke Johnson"
+        ],
+        "count": 3
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Luke Johnson"
+        ],
         "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [
+          "Jose Flores",
+          "Juan Padilla Ruiz"
+        ],
+        "count": 2
+      }
+    },
+    "2026-03-06": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Aubrey Reed",
+          "Jose Flores",
+          "Juan Padilla Ruiz",
+          "Luke Johnson"
+        ],
+        "count": 4
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Aubrey Reed",
+          "Luke Johnson"
+        ],
+        "count": 2
+      },
+      "boh": {
+        "approved": [],
+        "pending": [
+          "Jose Flores",
+          "Juan Padilla Ruiz"
+        ],
+        "count": 2
       }
     },
     "2026-03-07": {
       "all": {
         "approved": [
           "Faith Stone",
-          "Lauren Teerlink"
+          "Lauren Teerlink",
+          "Zeke Pena"
         ],
         "pending": [
-          "Drexil Beard"
+          "Aubrey Reed",
+          "Drexil Beard",
+          "Jose Flores",
+          "Juan Padilla Ruiz",
+          "Xavier Marcus"
         ],
-        "count": 3
+        "count": 8
       },
       "foh": {
         "approved": [
           "Faith Stone",
           "Lauren Teerlink"
         ],
-        "pending": [],
-        "count": 2
+        "pending": [
+          "Aubrey Reed",
+          "Xavier Marcus"
+        ],
+        "count": 4
       },
       "boh": {
-        "approved": [],
-        "pending": [
-          "Drexil Beard"
+        "approved": [
+          "Zeke Pena"
         ],
-        "count": 1
+        "pending": [
+          "Drexil Beard",
+          "Jose Flores",
+          "Juan Padilla Ruiz"
+        ],
+        "count": 4
       }
     },
     "2026-03-08": {
@@ -1421,9 +910,11 @@
           "Faith Stone"
         ],
         "pending": [
-          "Drexil Beard"
+          "Drexil Beard",
+          "Jose Flores",
+          "Juan Padilla Ruiz"
         ],
-        "count": 2
+        "count": 4
       },
       "foh": {
         "approved": [
@@ -1435,9 +926,11 @@
       "boh": {
         "approved": [],
         "pending": [
-          "Drexil Beard"
+          "Drexil Beard",
+          "Jose Flores",
+          "Juan Padilla Ruiz"
         ],
-        "count": 1
+        "count": 3
       }
     },
     "2026-03-09": {
@@ -1446,9 +939,11 @@
           "Maiken Schmidt"
         ],
         "pending": [
-          "Drexil Beard"
+          "Drexil Beard",
+          "Jose Flores",
+          "Juan Padilla Ruiz"
         ],
-        "count": 2
+        "count": 4
       },
       "foh": {
         "approved": [],
@@ -1460,9 +955,11 @@
           "Maiken Schmidt"
         ],
         "pending": [
-          "Drexil Beard"
+          "Drexil Beard",
+          "Jose Flores",
+          "Juan Padilla Ruiz"
         ],
-        "count": 2
+        "count": 4
       }
     },
     "2026-03-10": {
@@ -1471,9 +968,11 @@
           "Maiken Schmidt"
         ],
         "pending": [
-          "Drexil Beard"
+          "Drexil Beard",
+          "Jose Flores",
+          "Juan Padilla Ruiz"
         ],
-        "count": 2
+        "count": 4
       },
       "foh": {
         "approved": [],
@@ -1485,9 +984,11 @@
           "Maiken Schmidt"
         ],
         "pending": [
-          "Drexil Beard"
+          "Drexil Beard",
+          "Jose Flores",
+          "Juan Padilla Ruiz"
         ],
-        "count": 2
+        "count": 4
       }
     },
     "2026-03-11": {
@@ -1497,9 +998,11 @@
           "Savannah Lomeli"
         ],
         "pending": [
-          "Drexil Beard"
+          "Drexil Beard",
+          "Jose Flores",
+          "Juan Padilla Ruiz"
         ],
-        "count": 3
+        "count": 5
       },
       "foh": {
         "approved": [
@@ -1513,9 +1016,11 @@
           "Maiken Schmidt"
         ],
         "pending": [
-          "Drexil Beard"
+          "Drexil Beard",
+          "Jose Flores",
+          "Juan Padilla Ruiz"
         ],
-        "count": 2
+        "count": 4
       }
     },
     "2026-03-12": {
@@ -1525,9 +1030,11 @@
         ],
         "pending": [
           "Drexil Beard",
+          "Jose Flores",
+          "Juan Padilla Ruiz",
           "Sydney Schreiber"
         ],
-        "count": 3
+        "count": 5
       },
       "foh": {
         "approved": [],
@@ -1541,31 +1048,35 @@
           "Maiken Schmidt"
         ],
         "pending": [
-          "Drexil Beard"
+          "Drexil Beard",
+          "Jose Flores",
+          "Juan Padilla Ruiz"
         ],
-        "count": 2
+        "count": 4
       }
     },
     "2026-03-13": {
       "all": {
         "approved": [
-          "Emerson Moropolous"
+          "Karina Salcedo"
         ],
         "pending": [
           "Brice Lewis",
           "Drexil Beard",
-          "Karina Salcedo",
-          "Sydney Schreiber"
+          "Jose Flores",
+          "Juan Padilla Ruiz",
+          "Sydney Schreiber",
+          "Tobias Cameron"
         ],
-        "count": 5
+        "count": 7
       },
       "foh": {
         "approved": [
-          "Emerson Moropolous"
+          "Karina Salcedo"
         ],
         "pending": [
-          "Karina Salcedo",
-          "Sydney Schreiber"
+          "Sydney Schreiber",
+          "Tobias Cameron"
         ],
         "count": 3
       },
@@ -1573,34 +1084,39 @@
         "approved": [],
         "pending": [
           "Brice Lewis",
-          "Drexil Beard"
+          "Drexil Beard",
+          "Jose Flores",
+          "Juan Padilla Ruiz"
         ],
-        "count": 2
+        "count": 4
       }
     },
     "2026-03-14": {
       "all": {
         "approved": [
+          "Alexandria Lizardo",
           "Blayne Stanley",
+          "Karina Salcedo",
           "Maiken Schmidt"
         ],
         "pending": [
-          "Alexandria Lizardo",
           "Brice Lewis",
           "Drexil Beard",
-          "Karina Salcedo"
+          "Olivia Catanzaro",
+          "SHAUN LE"
         ],
-        "count": 6
+        "count": 8
       },
       "foh": {
         "approved": [
-          "Blayne Stanley"
-        ],
-        "pending": [
           "Alexandria Lizardo",
+          "Blayne Stanley",
           "Karina Salcedo"
         ],
-        "count": 3
+        "pending": [
+          "Olivia Catanzaro"
+        ],
+        "count": 4
       },
       "boh": {
         "approved": [
@@ -1608,32 +1124,32 @@
         ],
         "pending": [
           "Brice Lewis",
-          "Drexil Beard"
+          "Drexil Beard",
+          "SHAUN LE"
         ],
-        "count": 3
+        "count": 4
       }
     },
     "2026-03-15": {
       "all": {
         "approved": [
-          "Blayne Stanley"
+          "Alexandria Lizardo",
+          "Blayne Stanley",
+          "Karina Salcedo"
         ],
         "pending": [
-          "Alexandria Lizardo",
           "Brice Lewis",
-          "Drexil Beard",
-          "Karina Salcedo"
+          "Drexil Beard"
         ],
         "count": 5
       },
       "foh": {
         "approved": [
-          "Blayne Stanley"
-        ],
-        "pending": [
           "Alexandria Lizardo",
+          "Blayne Stanley",
           "Karina Salcedo"
         ],
+        "pending": [],
         "count": 3
       },
       "boh": {
@@ -1648,641 +1164,812 @@
     "2026-03-16": {
       "all": {
         "approved": [
+          "Alexandria Lizardo",
+          "Bianca Lewis",
           "Blayne Stanley",
+          "Karina Salcedo",
           "Maiken Schmidt",
-          "Sophia Hofer"
-        ],
-        "pending": [
-          "Alexandria Lizardo",
-          "Brice Lewis",
-          "Drexil Beard",
-          "Karina Salcedo"
-        ],
-        "count": 7
-      },
-      "foh": {
-        "approved": [
-          "Blayne Stanley",
-          "Sophia Hofer"
-        ],
-        "pending": [
-          "Alexandria Lizardo",
-          "Karina Salcedo"
-        ],
-        "count": 4
-      },
-      "boh": {
-        "approved": [
-          "Maiken Schmidt"
+          "Sophia Hofer",
+          "Taegan Cole"
         ],
         "pending": [
           "Brice Lewis",
           "Drexil Beard"
         ],
-        "count": 3
+        "count": 9
+      },
+      "foh": {
+        "approved": [
+          "Alexandria Lizardo",
+          "Bianca Lewis",
+          "Blayne Stanley",
+          "Karina Salcedo",
+          "Sophia Hofer"
+        ],
+        "pending": [],
+        "count": 5
+      },
+      "boh": {
+        "approved": [
+          "Maiken Schmidt",
+          "Taegan Cole"
+        ],
+        "pending": [
+          "Brice Lewis",
+          "Drexil Beard"
+        ],
+        "count": 4
       }
     },
     "2026-03-17": {
       "all": {
         "approved": [
+          "Alexandria Lizardo",
+          "Bianca Lewis",
           "Blayne Stanley",
           "Emerson Moropolous",
-          "Sophia Hofer"
+          "Karina Salcedo",
+          "Sophia Hofer",
+          "Taegan Cole"
         ],
-        "pending": [
-          "Alexandria Lizardo",
-          "Brice Lewis",
-          "Drexil Beard",
-          "Karina Salcedo"
-        ],
-        "count": 7
-      },
-      "foh": {
-        "approved": [
-          "Blayne Stanley",
-          "Emerson Moropolous",
-          "Sophia Hofer"
-        ],
-        "pending": [
-          "Alexandria Lizardo",
-          "Karina Salcedo"
-        ],
-        "count": 5
-      },
-      "boh": {
-        "approved": [],
         "pending": [
           "Brice Lewis",
           "Drexil Beard"
         ],
-        "count": 2
+        "count": 9
+      },
+      "foh": {
+        "approved": [
+          "Alexandria Lizardo",
+          "Bianca Lewis",
+          "Blayne Stanley",
+          "Emerson Moropolous",
+          "Karina Salcedo",
+          "Sophia Hofer"
+        ],
+        "pending": [],
+        "count": 6
+      },
+      "boh": {
+        "approved": [
+          "Taegan Cole"
+        ],
+        "pending": [
+          "Brice Lewis",
+          "Drexil Beard"
+        ],
+        "count": 3
       }
     },
     "2026-03-18": {
       "all": {
         "approved": [
+          "Alexandria Lizardo",
           "Aubrey Reed",
+          "Bianca Lewis",
           "Blayne Stanley",
+          "Brinlee Guy",
           "Emerson Moropolous",
-          "Sophia Hofer"
+          "Sophia Hofer",
+          "Taegan Cole"
         ],
         "pending": [
-          "Alexandria Lizardo",
           "Brice Lewis",
-          "Brinlee Guy",
-          "Drexil Beard"
+          "Drexil Beard",
+          "Kayla Erving"
         ],
-        "count": 8
+        "count": 11
       },
       "foh": {
         "approved": [
+          "Alexandria Lizardo",
           "Aubrey Reed",
+          "Bianca Lewis",
           "Blayne Stanley",
+          "Brinlee Guy",
           "Emerson Moropolous",
           "Sophia Hofer"
         ],
         "pending": [
-          "Alexandria Lizardo",
-          "Brinlee Guy"
+          "Kayla Erving"
         ],
-        "count": 6
+        "count": 8
       },
       "boh": {
-        "approved": [],
+        "approved": [
+          "Taegan Cole"
+        ],
         "pending": [
           "Brice Lewis",
           "Drexil Beard"
         ],
-        "count": 2
+        "count": 3
       }
     },
     "2026-03-19": {
       "all": {
         "approved": [
+          "Alexandria Lizardo",
+          "Bianca Lewis",
           "Blayne Stanley",
+          "Brinlee Guy",
           "Emerson Moropolous",
-          "Sophia Hofer"
+          "Sophia Hofer",
+          "Taegan Cole"
         ],
         "pending": [
-          "Alexandria Lizardo",
           "Brice Lewis",
-          "Brinlee Guy",
-          "Drexil Beard"
+          "Drexil Beard",
+          "Kayla Erving",
+          "Olivia Catanzaro",
+          "Tarynce Price"
         ],
-        "count": 7
+        "count": 12
       },
       "foh": {
         "approved": [
+          "Alexandria Lizardo",
+          "Bianca Lewis",
           "Blayne Stanley",
+          "Brinlee Guy",
           "Emerson Moropolous",
           "Sophia Hofer"
         ],
         "pending": [
-          "Alexandria Lizardo",
-          "Brinlee Guy"
+          "Kayla Erving",
+          "Olivia Catanzaro",
+          "Tarynce Price"
         ],
-        "count": 5
+        "count": 9
       },
       "boh": {
-        "approved": [],
+        "approved": [
+          "Taegan Cole"
+        ],
         "pending": [
           "Brice Lewis",
           "Drexil Beard"
         ],
-        "count": 2
+        "count": 3
       }
     },
     "2026-03-20": {
       "all": {
         "approved": [
-          "Aubrey Reed",
-          "Blayne Stanley",
-          "Emerson Moropolous",
-          "Isaac Pena",
-          "Natalia Cameron",
-          "Ngan Hoang",
-          "Sophia Hofer"
-        ],
-        "pending": [
           "Alexandria Lizardo",
-          "Brice Lewis",
+          "Aubrey Reed",
+          "Bianca Lewis",
+          "Blayne Stanley",
           "Brinlee Guy",
           "Cooper Fisken",
-          "Drexil Beard",
-          "James Michael"
+          "Emerson Moropolous",
+          "Isaac Pena",
+          "Ishimwe Munanura",
+          "James Michael",
+          "Natalia Cameron",
+          "Ngan Hoang",
+          "Sophia Hofer",
+          "Taegan Cole"
         ],
-        "count": 13
+        "pending": [
+          "Brice Lewis",
+          "Drexil Beard",
+          "Kayla Erving",
+          "Olivia Catanzaro",
+          "Tarynce Price"
+        ],
+        "count": 19
       },
       "foh": {
         "approved": [
+          "Alexandria Lizardo",
           "Aubrey Reed",
+          "Bianca Lewis",
           "Blayne Stanley",
+          "Brinlee Guy",
+          "Cooper Fisken",
           "Emerson Moropolous",
           "Isaac Pena",
+          "James Michael",
           "Natalia Cameron",
           "Ngan Hoang",
           "Sophia Hofer"
         ],
         "pending": [
-          "Alexandria Lizardo",
-          "Brinlee Guy",
-          "Cooper Fisken",
-          "James Michael"
+          "Kayla Erving",
+          "Olivia Catanzaro",
+          "Tarynce Price"
         ],
-        "count": 11
+        "count": 15
       },
       "boh": {
-        "approved": [],
+        "approved": [
+          "Ishimwe Munanura",
+          "Taegan Cole"
+        ],
         "pending": [
           "Brice Lewis",
           "Drexil Beard"
         ],
-        "count": 2
+        "count": 4
       }
     },
     "2026-03-21": {
       "all": {
         "approved": [
-          "Aubrey Reed",
-          "Blayne Stanley",
-          "Emerson Moropolous",
-          "Isaac Pena",
-          "Ngan Hoang",
-          "Sophia Hofer"
-        ],
-        "pending": [
           "Alexandria Lizardo",
-          "Brice Lewis",
+          "Aubrey Reed",
+          "Bianca Lewis",
+          "Blayne Stanley",
           "Brinlee Guy",
           "Cooper Fisken",
-          "Criedynce Davis",
-          "Drexil Beard",
+          "Emerson Moropolous",
+          "Isaac Pena",
+          "Ishimwe Munanura",
           "James Michael",
+          "Ngan Hoang",
+          "Sophia Hofer",
           "Sydney Schreiber"
         ],
-        "count": 14
+        "pending": [
+          "Brice Lewis",
+          "Criedynce Davis",
+          "Drexil Beard",
+          "Gwen Rubio",
+          "Kayla Erving",
+          "Maiken Schmidt",
+          "Olivia Catanzaro",
+          "Tarynce Price"
+        ],
+        "count": 21
       },
       "foh": {
         "approved": [
-          "Aubrey Reed",
-          "Blayne Stanley",
-          "Emerson Moropolous",
-          "Isaac Pena",
-          "Ngan Hoang",
-          "Sophia Hofer"
-        ],
-        "pending": [
           "Alexandria Lizardo",
+          "Aubrey Reed",
+          "Bianca Lewis",
+          "Blayne Stanley",
           "Brinlee Guy",
           "Cooper Fisken",
-          "Criedynce Davis",
+          "Emerson Moropolous",
+          "Isaac Pena",
           "James Michael",
+          "Ngan Hoang",
+          "Sophia Hofer",
           "Sydney Schreiber"
         ],
-        "count": 12
+        "pending": [
+          "Criedynce Davis",
+          "Gwen Rubio",
+          "Kayla Erving",
+          "Olivia Catanzaro",
+          "Tarynce Price"
+        ],
+        "count": 17
       },
       "boh": {
-        "approved": [],
+        "approved": [
+          "Ishimwe Munanura"
+        ],
         "pending": [
           "Brice Lewis",
-          "Drexil Beard"
+          "Drexil Beard",
+          "Maiken Schmidt"
         ],
-        "count": 2
+        "count": 4
       }
     },
     "2026-03-22": {
       "all": {
         "approved": [
-          "Aubrey Reed",
-          "Blayne Stanley",
-          "Emerson Moropolous",
-          "Isaac Pena",
-          "Ngan Hoang",
-          "Sophia Hofer"
-        ],
-        "pending": [
           "Alexandria Lizardo",
-          "Brice Lewis",
+          "Aubrey Reed",
+          "Bianca Lewis",
+          "Blayne Stanley",
           "Brinlee Guy",
           "Cooper Fisken",
-          "Drexil Beard",
+          "Emerson Moropolous",
+          "Isaac Pena",
+          "Ishimwe Munanura",
           "James Michael",
+          "Ngan Hoang",
+          "Sophia Hofer",
           "Sydney Schreiber"
         ],
-        "count": 13
+        "pending": [
+          "Brice Lewis",
+          "Drexil Beard",
+          "Gwen Rubio",
+          "Kayla Erving",
+          "Maiken Schmidt",
+          "Olivia Catanzaro",
+          "Tarynce Price"
+        ],
+        "count": 20
       },
       "foh": {
         "approved": [
-          "Aubrey Reed",
-          "Blayne Stanley",
-          "Emerson Moropolous",
-          "Isaac Pena",
-          "Ngan Hoang",
-          "Sophia Hofer"
-        ],
-        "pending": [
           "Alexandria Lizardo",
+          "Aubrey Reed",
+          "Bianca Lewis",
+          "Blayne Stanley",
           "Brinlee Guy",
           "Cooper Fisken",
+          "Emerson Moropolous",
+          "Isaac Pena",
           "James Michael",
+          "Ngan Hoang",
+          "Sophia Hofer",
           "Sydney Schreiber"
         ],
-        "count": 11
+        "pending": [
+          "Gwen Rubio",
+          "Kayla Erving",
+          "Olivia Catanzaro",
+          "Tarynce Price"
+        ],
+        "count": 16
       },
       "boh": {
-        "approved": [],
+        "approved": [
+          "Ishimwe Munanura"
+        ],
         "pending": [
           "Brice Lewis",
-          "Drexil Beard"
+          "Drexil Beard",
+          "Maiken Schmidt"
         ],
-        "count": 2
+        "count": 4
       }
     },
     "2026-03-23": {
       "all": {
         "approved": [
-          "Aubrey Reed",
-          "Blayne Stanley",
-          "Emerson Moropolous",
-          "Isaac Pena",
-          "Natalia Cameron",
-          "Ngan Hoang",
-          "Sophia Hofer"
-        ],
-        "pending": [
           "Alexandria Lizardo",
-          "Brice Lewis",
+          "Aubrey Reed",
+          "Bianca Lewis",
+          "Blayne Stanley",
           "Brinlee Guy",
           "Cooper Fisken",
-          "Drexil Beard",
+          "Emerson Moropolous",
+          "Isaac Pena",
+          "Ishimwe Munanura",
           "James Michael",
-          "Juan Padilla Ruiz",
+          "Natalia Cameron",
+          "Ngan Hoang",
+          "Sophia Hofer",
           "Sydney Schreiber"
         ],
-        "count": 15
+        "pending": [
+          "Brice Lewis",
+          "Drexil Beard",
+          "Gwen Rubio",
+          "Juan Padilla Ruiz",
+          "Kayla Erving",
+          "Luke Johnson",
+          "Maiken Schmidt",
+          "Olivia Catanzaro",
+          "Savannah Lomeli",
+          "Tarynce Price"
+        ],
+        "count": 24
       },
       "foh": {
         "approved": [
-          "Aubrey Reed",
-          "Blayne Stanley",
-          "Emerson Moropolous",
-          "Isaac Pena",
-          "Natalia Cameron",
-          "Ngan Hoang",
-          "Sophia Hofer"
-        ],
-        "pending": [
           "Alexandria Lizardo",
+          "Aubrey Reed",
+          "Bianca Lewis",
+          "Blayne Stanley",
           "Brinlee Guy",
           "Cooper Fisken",
+          "Emerson Moropolous",
+          "Isaac Pena",
           "James Michael",
+          "Natalia Cameron",
+          "Ngan Hoang",
+          "Sophia Hofer",
           "Sydney Schreiber"
         ],
-        "count": 12
+        "pending": [
+          "Gwen Rubio",
+          "Kayla Erving",
+          "Luke Johnson",
+          "Olivia Catanzaro",
+          "Savannah Lomeli",
+          "Tarynce Price"
+        ],
+        "count": 19
       },
       "boh": {
-        "approved": [],
+        "approved": [
+          "Ishimwe Munanura"
+        ],
         "pending": [
           "Brice Lewis",
           "Drexil Beard",
-          "Juan Padilla Ruiz"
+          "Juan Padilla Ruiz",
+          "Maiken Schmidt"
         ],
-        "count": 3
+        "count": 5
       }
     },
     "2026-03-24": {
       "all": {
         "approved": [
-          "Aubrey Reed",
-          "Blayne Stanley",
-          "Emerson Moropolous",
-          "Isaac Pena",
-          "Natalia Cameron",
-          "Ngan Hoang",
-          "Sophia Hofer"
-        ],
-        "pending": [
           "Alexandria Lizardo",
-          "Brice Lewis",
+          "Aubrey Reed",
+          "Bianca Lewis",
+          "Blayne Stanley",
           "Brinlee Guy",
           "Cooper Fisken",
-          "Drexil Beard",
+          "Emerson Moropolous",
+          "Isaac Pena",
+          "Ishimwe Munanura",
           "James Michael",
-          "Juan Padilla Ruiz",
+          "Natalia Cameron",
+          "Ngan Hoang",
+          "Sophia Hofer",
           "Sydney Schreiber"
         ],
-        "count": 15
+        "pending": [
+          "Brice Lewis",
+          "Drexil Beard",
+          "Gwen Rubio",
+          "Juan Padilla Ruiz",
+          "Kayla Erving",
+          "Olivia Catanzaro",
+          "Savannah Lomeli",
+          "Tarynce Price"
+        ],
+        "count": 22
       },
       "foh": {
         "approved": [
-          "Aubrey Reed",
-          "Blayne Stanley",
-          "Emerson Moropolous",
-          "Isaac Pena",
-          "Natalia Cameron",
-          "Ngan Hoang",
-          "Sophia Hofer"
-        ],
-        "pending": [
           "Alexandria Lizardo",
+          "Aubrey Reed",
+          "Bianca Lewis",
+          "Blayne Stanley",
           "Brinlee Guy",
           "Cooper Fisken",
+          "Emerson Moropolous",
+          "Isaac Pena",
           "James Michael",
+          "Natalia Cameron",
+          "Ngan Hoang",
+          "Sophia Hofer",
           "Sydney Schreiber"
         ],
-        "count": 12
+        "pending": [
+          "Gwen Rubio",
+          "Kayla Erving",
+          "Olivia Catanzaro",
+          "Savannah Lomeli",
+          "Tarynce Price"
+        ],
+        "count": 18
       },
       "boh": {
-        "approved": [],
+        "approved": [
+          "Ishimwe Munanura"
+        ],
         "pending": [
           "Brice Lewis",
           "Drexil Beard",
           "Juan Padilla Ruiz"
         ],
-        "count": 3
+        "count": 4
       }
     },
     "2026-03-25": {
       "all": {
         "approved": [
+          "Alexandria Lizardo",
           "Aubrey Reed",
+          "Bianca Lewis",
           "Blayne Stanley",
+          "Brinlee Guy",
+          "Cooper Fisken",
           "Emerson Moropolous",
           "Isaac Pena",
+          "Ishimwe Munanura",
           "Natalia Cameron",
           "Ngan Hoang",
-          "Sophia Hofer"
-        ],
-        "pending": [
-          "Alexandria Lizardo",
-          "Brice Lewis",
-          "Brinlee Guy",
-          "Britney Nova",
-          "Cooper Fisken",
-          "Drexil Beard",
-          "Juan Padilla Ruiz",
+          "Sophia Hofer",
           "Sydney Schreiber"
         ],
-        "count": 15
+        "pending": [
+          "Brice Lewis",
+          "Drexil Beard",
+          "Ella Hamrick",
+          "Gwen Rubio",
+          "Juan Padilla Ruiz",
+          "Kayla Erving",
+          "Olivia Catanzaro",
+          "Savannah Lomeli",
+          "Tarynce Price"
+        ],
+        "count": 22
       },
       "foh": {
         "approved": [
+          "Alexandria Lizardo",
           "Aubrey Reed",
+          "Bianca Lewis",
           "Blayne Stanley",
+          "Brinlee Guy",
+          "Cooper Fisken",
           "Emerson Moropolous",
           "Isaac Pena",
           "Natalia Cameron",
           "Ngan Hoang",
-          "Sophia Hofer"
-        ],
-        "pending": [
-          "Alexandria Lizardo",
-          "Brinlee Guy",
-          "Britney Nova",
-          "Cooper Fisken",
+          "Sophia Hofer",
           "Sydney Schreiber"
         ],
-        "count": 12
+        "pending": [
+          "Ella Hamrick",
+          "Gwen Rubio",
+          "Kayla Erving",
+          "Olivia Catanzaro",
+          "Savannah Lomeli",
+          "Tarynce Price"
+        ],
+        "count": 18
       },
       "boh": {
-        "approved": [],
+        "approved": [
+          "Ishimwe Munanura"
+        ],
         "pending": [
           "Brice Lewis",
           "Drexil Beard",
           "Juan Padilla Ruiz"
         ],
-        "count": 3
+        "count": 4
       }
     },
     "2026-03-26": {
       "all": {
         "approved": [
+          "Alexandria Lizardo",
           "Aubrey Reed",
+          "Bianca Lewis",
           "Blayne Stanley",
+          "Brinlee Guy",
+          "Cooper Fisken",
           "Emerson Moropolous",
+          "Ishimwe Munanura",
+          "Khalila Gilbert",
           "Natalia Cameron",
           "Ngan Hoang",
-          "Sophia Hofer"
-        ],
-        "pending": [
-          "Alexandria Lizardo",
-          "Brice Lewis",
-          "Brinlee Guy",
-          "Britney Nova",
-          "Cooper Fisken",
-          "Drexil Beard",
-          "Juan Padilla Ruiz",
+          "Sophia Hofer",
           "Sydney Schreiber"
         ],
-        "count": 14
+        "pending": [
+          "Brice Lewis",
+          "Drexil Beard",
+          "Ella Hamrick",
+          "Gwen Rubio",
+          "Juan Padilla Ruiz",
+          "Kayla Erving",
+          "Olivia Catanzaro",
+          "Savannah Lomeli",
+          "Tarynce Price"
+        ],
+        "count": 22
       },
       "foh": {
         "approved": [
+          "Alexandria Lizardo",
           "Aubrey Reed",
+          "Bianca Lewis",
           "Blayne Stanley",
+          "Brinlee Guy",
+          "Cooper Fisken",
           "Emerson Moropolous",
           "Natalia Cameron",
           "Ngan Hoang",
-          "Sophia Hofer"
-        ],
-        "pending": [
-          "Alexandria Lizardo",
-          "Brinlee Guy",
-          "Britney Nova",
-          "Cooper Fisken",
+          "Sophia Hofer",
           "Sydney Schreiber"
         ],
-        "count": 11
+        "pending": [
+          "Ella Hamrick",
+          "Gwen Rubio",
+          "Kayla Erving",
+          "Olivia Catanzaro",
+          "Savannah Lomeli",
+          "Tarynce Price"
+        ],
+        "count": 17
       },
       "boh": {
-        "approved": [],
+        "approved": [
+          "Ishimwe Munanura",
+          "Khalila Gilbert"
+        ],
         "pending": [
           "Brice Lewis",
           "Drexil Beard",
           "Juan Padilla Ruiz"
         ],
-        "count": 3
+        "count": 5
       }
     },
     "2026-03-27": {
       "all": {
         "approved": [
+          "Alexandria Lizardo",
           "Aubrey Reed",
+          "Bianca Lewis",
           "Blayne Stanley",
+          "Brinlee Guy",
+          "Cooper Fisken",
+          "Ishimwe Munanura",
           "Natalia Cameron",
           "Ngan Hoang",
-          "Sophia Hofer"
-        ],
-        "pending": [
-          "Alexandria Lizardo",
-          "Brice Lewis",
-          "Brinlee Guy",
-          "Britney Nova",
-          "Cooper Fisken",
-          "Drexil Beard",
-          "Juan Padilla Ruiz",
+          "Sophia Hofer",
           "Sydney Schreiber"
         ],
-        "count": 13
+        "pending": [
+          "Brice Lewis",
+          "Drexil Beard",
+          "Ella Hamrick",
+          "Gwen Rubio",
+          "Juan Padilla Ruiz",
+          "Kayla Erving",
+          "Olivia Catanzaro",
+          "Savannah Lomeli",
+          "Tarynce Price"
+        ],
+        "count": 20
       },
       "foh": {
         "approved": [
+          "Alexandria Lizardo",
           "Aubrey Reed",
+          "Bianca Lewis",
           "Blayne Stanley",
+          "Brinlee Guy",
+          "Cooper Fisken",
           "Natalia Cameron",
           "Ngan Hoang",
-          "Sophia Hofer"
-        ],
-        "pending": [
-          "Alexandria Lizardo",
-          "Brinlee Guy",
-          "Britney Nova",
-          "Cooper Fisken",
+          "Sophia Hofer",
           "Sydney Schreiber"
         ],
-        "count": 10
+        "pending": [
+          "Ella Hamrick",
+          "Gwen Rubio",
+          "Kayla Erving",
+          "Olivia Catanzaro",
+          "Savannah Lomeli",
+          "Tarynce Price"
+        ],
+        "count": 16
       },
       "boh": {
-        "approved": [],
+        "approved": [
+          "Ishimwe Munanura"
+        ],
         "pending": [
           "Brice Lewis",
           "Drexil Beard",
           "Juan Padilla Ruiz"
         ],
-        "count": 3
+        "count": 4
       }
     },
     "2026-03-28": {
       "all": {
         "approved": [
-          "Aubrey Reed",
-          "Blayne Stanley",
-          "Ngan Hoang",
-          "Sophia Hofer"
-        ],
-        "pending": [
           "Alexandria Lizardo",
-          "Brice Lewis",
+          "Aubrey Reed",
+          "Bianca Lewis",
+          "Blayne Stanley",
           "Brinlee Guy",
-          "Britney Nova",
           "Cooper Fisken",
-          "Drexil Beard",
+          "Ishimwe Munanura",
+          "Ngan Hoang",
+          "Sophia Hofer",
           "Sydney Schreiber"
         ],
-        "count": 11
+        "pending": [
+          "Brice Lewis",
+          "Drexil Beard",
+          "Kayla Erving",
+          "Olivia Catanzaro",
+          "Savannah Lomeli",
+          "Tarynce Price"
+        ],
+        "count": 16
       },
       "foh": {
         "approved": [
-          "Aubrey Reed",
-          "Blayne Stanley",
-          "Ngan Hoang",
-          "Sophia Hofer"
-        ],
-        "pending": [
           "Alexandria Lizardo",
+          "Aubrey Reed",
+          "Bianca Lewis",
+          "Blayne Stanley",
           "Brinlee Guy",
-          "Britney Nova",
           "Cooper Fisken",
+          "Ngan Hoang",
+          "Sophia Hofer",
           "Sydney Schreiber"
         ],
-        "count": 9
+        "pending": [
+          "Kayla Erving",
+          "Olivia Catanzaro",
+          "Savannah Lomeli",
+          "Tarynce Price"
+        ],
+        "count": 13
       },
       "boh": {
-        "approved": [],
+        "approved": [
+          "Ishimwe Munanura"
+        ],
         "pending": [
           "Brice Lewis",
           "Drexil Beard"
         ],
-        "count": 2
+        "count": 3
       }
     },
     "2026-03-29": {
       "all": {
         "approved": [
+          "Bianca Lewis",
           "Blayne Stanley",
+          "Brinlee Guy",
+          "Ishimwe Munanura",
           "Ngan Hoang"
         ],
         "pending": [
-          "Brinlee Guy",
-          "Britney Nova",
-          "Drexil Beard"
+          "Drexil Beard",
+          "Tarynce Price"
         ],
-        "count": 5
+        "count": 7
       },
       "foh": {
         "approved": [
+          "Bianca Lewis",
           "Blayne Stanley",
+          "Brinlee Guy",
           "Ngan Hoang"
         ],
         "pending": [
-          "Brinlee Guy",
-          "Britney Nova"
+          "Tarynce Price"
         ],
-        "count": 4
+        "count": 5
       },
       "boh": {
-        "approved": [],
+        "approved": [
+          "Ishimwe Munanura"
+        ],
         "pending": [
           "Drexil Beard"
         ],
-        "count": 1
+        "count": 2
       }
     },
     "2026-03-30": {
       "all": {
-        "approved": [],
-        "pending": [
-          "Brinlee Guy",
-          "Drexil Beard"
-        ],
-        "count": 2
-      },
-      "foh": {
-        "approved": [],
-        "pending": [
+        "approved": [
+          "Bianca Lewis",
           "Brinlee Guy"
         ],
-        "count": 1
+        "pending": [
+          "Drexil Beard",
+          "Tarynce Price"
+        ],
+        "count": 4
+      },
+      "foh": {
+        "approved": [
+          "Bianca Lewis",
+          "Brinlee Guy"
+        ],
+        "pending": [
+          "Tarynce Price"
+        ],
+        "count": 3
       },
       "boh": {
         "approved": [],
@@ -2294,16 +1981,20 @@
     },
     "2026-03-31": {
       "all": {
-        "approved": [],
+        "approved": [
+          "Bianca Lewis"
+        ],
         "pending": [
           "Drexil Beard"
         ],
-        "count": 1
+        "count": 2
       },
       "foh": {
-        "approved": [],
+        "approved": [
+          "Bianca Lewis"
+        ],
         "pending": [],
-        "count": 0
+        "count": 1
       },
       "boh": {
         "approved": [],
@@ -2316,22 +2007,25 @@
     "2026-04-01": {
       "all": {
         "approved": [
-          "Anthony Soto"
-        ],
-        "pending": [
-          "Drexil Beard",
+          "Anthony Soto",
+          "Bianca Lewis",
+          "Emerson Moropolous",
           "Karina Salcedo"
         ],
-        "count": 3
+        "pending": [
+          "Drexil Beard"
+        ],
+        "count": 5
       },
       "foh": {
         "approved": [
-          "Anthony Soto"
-        ],
-        "pending": [
+          "Anthony Soto",
+          "Bianca Lewis",
+          "Emerson Moropolous",
           "Karina Salcedo"
         ],
-        "count": 2
+        "pending": [],
+        "count": 4
       },
       "boh": {
         "approved": [],
@@ -2344,24 +2038,27 @@
     "2026-04-02": {
       "all": {
         "approved": [
-          "Anthony Soto"
-        ],
-        "pending": [
+          "Anthony Soto",
+          "Bianca Lewis",
           "Britney Nova",
-          "Drexil Beard",
+          "Emerson Moropolous",
           "Karina Salcedo"
         ],
-        "count": 4
+        "pending": [
+          "Drexil Beard"
+        ],
+        "count": 6
       },
       "foh": {
         "approved": [
-          "Anthony Soto"
-        ],
-        "pending": [
+          "Anthony Soto",
+          "Bianca Lewis",
           "Britney Nova",
+          "Emerson Moropolous",
           "Karina Salcedo"
         ],
-        "count": 3
+        "pending": [],
+        "count": 5
       },
       "boh": {
         "approved": [],
@@ -2374,24 +2071,27 @@
     "2026-04-03": {
       "all": {
         "approved": [
-          "Anthony Soto"
-        ],
-        "pending": [
+          "Anthony Soto",
+          "Bianca Lewis",
           "Britney Nova",
-          "Drexil Beard",
+          "Emerson Moropolous",
           "Karina Salcedo"
         ],
-        "count": 4
+        "pending": [
+          "Drexil Beard"
+        ],
+        "count": 6
       },
       "foh": {
         "approved": [
-          "Anthony Soto"
-        ],
-        "pending": [
+          "Anthony Soto",
+          "Bianca Lewis",
           "Britney Nova",
+          "Emerson Moropolous",
           "Karina Salcedo"
         ],
-        "count": 3
+        "pending": [],
+        "count": 5
       },
       "boh": {
         "approved": [],
@@ -2405,25 +2105,26 @@
       "all": {
         "approved": [
           "Anthony Soto",
+          "Bianca Lewis",
+          "Britney Nova",
+          "Karina Salcedo",
           "Maurice Davis"
         ],
         "pending": [
-          "Britney Nova",
-          "Drexil Beard",
-          "Karina Salcedo"
+          "Drexil Beard"
         ],
-        "count": 5
+        "count": 6
       },
       "foh": {
         "approved": [
           "Anthony Soto",
+          "Bianca Lewis",
+          "Britney Nova",
+          "Karina Salcedo",
           "Maurice Davis"
         ],
-        "pending": [
-          "Britney Nova",
-          "Karina Salcedo"
-        ],
-        "count": 4
+        "pending": [],
+        "count": 5
       },
       "boh": {
         "approved": [],
@@ -2437,25 +2138,26 @@
       "all": {
         "approved": [
           "Anthony Soto",
-          "Emerson Moropolous"
-        ],
-        "pending": [
+          "Bianca Lewis",
           "Britney Nova",
-          "Drexil Beard",
+          "Emerson Moropolous",
           "Karina Salcedo"
         ],
-        "count": 5
+        "pending": [
+          "Drexil Beard"
+        ],
+        "count": 6
       },
       "foh": {
         "approved": [
           "Anthony Soto",
-          "Emerson Moropolous"
-        ],
-        "pending": [
+          "Bianca Lewis",
           "Britney Nova",
+          "Emerson Moropolous",
           "Karina Salcedo"
         ],
-        "count": 4
+        "pending": [],
+        "count": 5
       },
       "boh": {
         "approved": [],
@@ -2468,17 +2170,23 @@
     "2026-04-06": {
       "all": {
         "approved": [
+          "Bianca Lewis",
           "Emerson Moropolous"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Addison Brumble"
+        ],
+        "count": 3
       },
       "foh": {
         "approved": [
+          "Bianca Lewis",
           "Emerson Moropolous"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Addison Brumble"
+        ],
+        "count": 3
       },
       "boh": {
         "approved": [],
@@ -2493,8 +2201,10 @@
           "Natalia Cameron",
           "Tobias Cameron"
         ],
-        "pending": [],
-        "count": 3
+        "pending": [
+          "Addison Brumble"
+        ],
+        "count": 4
       },
       "foh": {
         "approved": [
@@ -2502,8 +2212,10 @@
           "Natalia Cameron",
           "Tobias Cameron"
         ],
-        "pending": [],
-        "count": 3
+        "pending": [
+          "Addison Brumble"
+        ],
+        "count": 4
       },
       "boh": {
         "approved": [],
@@ -2516,15 +2228,19 @@
         "approved": [
           "Emerson Moropolous"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Addison Brumble"
+        ],
+        "count": 2
       },
       "foh": {
         "approved": [
           "Emerson Moropolous"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Addison Brumble"
+        ],
+        "count": 2
       },
       "boh": {
         "approved": [],
@@ -2537,20 +2253,31 @@
         "approved": [
           "Emerson Moropolous"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Addison Brumble",
+          "Cooper Fisken",
+          "Jaidyn Lee",
+          "Trevor Hoppes"
+        ],
+        "count": 5
       },
       "foh": {
         "approved": [
           "Emerson Moropolous"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Addison Brumble",
+          "Cooper Fisken"
+        ],
+        "count": 3
       },
       "boh": {
         "approved": [],
-        "pending": [],
-        "count": 0
+        "pending": [
+          "Jaidyn Lee",
+          "Trevor Hoppes"
+        ],
+        "count": 2
       }
     },
     "2026-04-10": {
@@ -2559,43 +2286,66 @@
           "Emerson Moropolous",
           "Jaidyn Lee"
         ],
-        "pending": [],
-        "count": 2
+        "pending": [
+          "Addison Brumble",
+          "Cooper Fisken",
+          "Trevor Hoppes"
+        ],
+        "count": 5
       },
       "foh": {
         "approved": [
           "Emerson Moropolous"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Addison Brumble",
+          "Cooper Fisken"
+        ],
+        "count": 3
       },
       "boh": {
         "approved": [
           "Jaidyn Lee"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Trevor Hoppes"
+        ],
+        "count": 2
       }
     },
     "2026-04-11": {
       "all": {
         "approved": [
-          "Emerson Moropolous"
+          "Emerson Moropolous",
+          "Maiken Schmidt"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Addison Brumble",
+          "Cooper Fisken",
+          "Criedynce Davis",
+          "Trevor Hoppes"
+        ],
+        "count": 6
       },
       "foh": {
         "approved": [
           "Emerson Moropolous"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Addison Brumble",
+          "Cooper Fisken",
+          "Criedynce Davis"
+        ],
+        "count": 4
       },
       "boh": {
-        "approved": [],
-        "pending": [],
-        "count": 0
+        "approved": [
+          "Maiken Schmidt"
+        ],
+        "pending": [
+          "Trevor Hoppes"
+        ],
+        "count": 2
       }
     },
     "2026-04-12": {
@@ -2603,14 +2353,42 @@
         "approved": [
           "Emerson Moropolous"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Addison Brumble",
+          "Trevor Hoppes"
+        ],
+        "count": 3
       },
       "foh": {
         "approved": [
           "Emerson Moropolous"
         ],
-        "pending": [],
+        "pending": [
+          "Addison Brumble"
+        ],
+        "count": 2
+      },
+      "boh": {
+        "approved": [],
+        "pending": [
+          "Trevor Hoppes"
+        ],
+        "count": 1
+      }
+    },
+    "2026-04-13": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Addison Brumble"
+        ],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Addison Brumble"
+        ],
         "count": 1
       },
       "boh": {
@@ -2622,22 +2400,32 @@
     "2026-04-14": {
       "all": {
         "approved": [
+          "Emerson Moropolous",
           "Trinity Reese"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Addison Brumble",
+          "SHAUN LE"
+        ],
+        "count": 4
       },
       "foh": {
-        "approved": [],
-        "pending": [],
-        "count": 0
+        "approved": [
+          "Emerson Moropolous"
+        ],
+        "pending": [
+          "Addison Brumble"
+        ],
+        "count": 2
       },
       "boh": {
         "approved": [
           "Trinity Reese"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "SHAUN LE"
+        ],
+        "count": 2
       }
     },
     "2026-04-15": {
@@ -2645,13 +2433,17 @@
         "approved": [
           "Trinity Reese"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Addison Brumble"
+        ],
+        "count": 2
       },
       "foh": {
         "approved": [],
-        "pending": [],
-        "count": 0
+        "pending": [
+          "Addison Brumble"
+        ],
+        "count": 1
       },
       "boh": {
         "approved": [
@@ -2666,20 +2458,28 @@
         "approved": [
           "Trinity Reese"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Addison Brumble",
+          "Donna Rangel"
+        ],
+        "count": 3
       },
       "foh": {
         "approved": [],
-        "pending": [],
-        "count": 0
+        "pending": [
+          "Addison Brumble",
+          "Donna Rangel"
+        ],
+        "count": 2
       },
       "boh": {
         "approved": [
           "Trinity Reese"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Donna Rangel"
+        ],
+        "count": 2
       }
     },
     "2026-04-17": {
@@ -2687,20 +2487,26 @@
         "approved": [
           "Trinity Reese"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Donna Rangel"
+        ],
+        "count": 2
       },
       "foh": {
         "approved": [],
-        "pending": [],
-        "count": 0
+        "pending": [
+          "Donna Rangel"
+        ],
+        "count": 1
       },
       "boh": {
         "approved": [
           "Trinity Reese"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Donna Rangel"
+        ],
+        "count": 2
       }
     },
     "2026-04-18": {
@@ -2709,22 +2515,28 @@
           "Faith Stone",
           "Trinity Reese"
         ],
-        "pending": [],
-        "count": 2
+        "pending": [
+          "Donna Rangel"
+        ],
+        "count": 3
       },
       "foh": {
         "approved": [
           "Faith Stone"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Donna Rangel"
+        ],
+        "count": 2
       },
       "boh": {
         "approved": [
           "Trinity Reese"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Donna Rangel"
+        ],
+        "count": 2
       }
     },
     "2026-04-19": {
@@ -2733,22 +2545,28 @@
           "Faith Stone",
           "Trinity Reese"
         ],
-        "pending": [],
-        "count": 2
+        "pending": [
+          "Donna Rangel"
+        ],
+        "count": 3
       },
       "foh": {
         "approved": [
           "Faith Stone"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Donna Rangel"
+        ],
+        "count": 2
       },
       "boh": {
         "approved": [
           "Trinity Reese"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Donna Rangel"
+        ],
+        "count": 2
       }
     },
     "2026-04-20": {
@@ -2756,8 +2574,11 @@
         "approved": [
           "Trinity Reese"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Jaidyn Lee",
+          "Trevor Hoppes"
+        ],
+        "count": 3
       },
       "foh": {
         "approved": [],
@@ -2768,8 +2589,11 @@
         "approved": [
           "Trinity Reese"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Jaidyn Lee",
+          "Trevor Hoppes"
+        ],
+        "count": 3
       }
     },
     "2026-04-21": {
@@ -2820,15 +2644,19 @@
           "Maiken Schmidt",
           "Owen Cramer"
         ],
-        "pending": [],
-        "count": 2
+        "pending": [
+          "Aubrey Reed"
+        ],
+        "count": 3
       },
       "foh": {
         "approved": [
           "Owen Cramer"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Aubrey Reed"
+        ],
+        "count": 2
       },
       "boh": {
         "approved": [
@@ -2841,17 +2669,27 @@
     "2026-04-25": {
       "all": {
         "approved": [
+          "Bianca Lewis",
+          "Olivia Catanzaro",
           "Tobias Cameron"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Aubrey Reed",
+          "Quinn P'Pool-Johnson"
+        ],
+        "count": 5
       },
       "foh": {
         "approved": [
+          "Bianca Lewis",
+          "Olivia Catanzaro",
           "Tobias Cameron"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Aubrey Reed",
+          "Quinn P'Pool-Johnson"
+        ],
+        "count": 5
       },
       "boh": {
         "approved": [],
@@ -2862,14 +2700,14 @@
     "2026-04-29": {
       "all": {
         "approved": [
-          "ALLISON JOHNSON"
+          "Allison Johnson"
         ],
         "pending": [],
         "count": 1
       },
       "foh": {
         "approved": [
-          "ALLISON JOHNSON"
+          "Allison Johnson"
         ],
         "pending": [],
         "count": 1
@@ -2883,7 +2721,7 @@
     "2026-04-30": {
       "all": {
         "approved": [
-          "ALLISON JOHNSON",
+          "Allison Johnson",
           "Maiken Schmidt"
         ],
         "pending": [],
@@ -2891,7 +2729,7 @@
       },
       "foh": {
         "approved": [
-          "ALLISON JOHNSON"
+          "Allison Johnson"
         ],
         "pending": [],
         "count": 1
@@ -2904,12 +2742,54 @@
         "count": 1
       }
     },
-    "2026-05-04": {
+    "2026-05-01": {
       "all": {
         "approved": [],
         "pending": [
+          "Aubrey Reed"
+        ],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Aubrey Reed"
+        ],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      }
+    },
+    "2026-05-02": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Aubrey Reed"
+        ],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Aubrey Reed"
+        ],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      }
+    },
+    "2026-05-04": {
+      "all": {
+        "approved": [
           "Ashlynn Voges"
         ],
+        "pending": [],
         "count": 1
       },
       "foh": {
@@ -2918,10 +2798,10 @@
         "count": 0
       },
       "boh": {
-        "approved": [],
-        "pending": [
+        "approved": [
           "Ashlynn Voges"
         ],
+        "pending": [],
         "count": 1
       }
     },
@@ -2949,20 +2829,18 @@
     "2026-05-08": {
       "all": {
         "approved": [
+          "Owen Cramer",
           "Quinn P'Pool-Johnson"
         ],
-        "pending": [
-          "Owen Cramer"
-        ],
+        "pending": [],
         "count": 2
       },
       "foh": {
         "approved": [
+          "Owen Cramer",
           "Quinn P'Pool-Johnson"
         ],
-        "pending": [
-          "Owen Cramer"
-        ],
+        "pending": [],
         "count": 2
       },
       "boh": {
@@ -2976,15 +2854,19 @@
         "approved": [
           "Quinn P'Pool-Johnson"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Aubrey Reed"
+        ],
+        "count": 2
       },
       "foh": {
         "approved": [
           "Quinn P'Pool-Johnson"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Aubrey Reed"
+        ],
+        "count": 2
       },
       "boh": {
         "approved": [],
@@ -3016,42 +2898,49 @@
     "2026-05-13": {
       "all": {
         "approved": [
+          "Allison Johnson",
+          "Jaelyn Dunlap",
           "Quinn P'Pool-Johnson"
         ],
         "pending": [
-          "Jaelyn Dunlap"
+          "Aubrey Reed"
         ],
-        "count": 2
+        "count": 4
       },
       "foh": {
         "approved": [
+          "Allison Johnson",
           "Quinn P'Pool-Johnson"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Aubrey Reed"
+        ],
+        "count": 3
       },
       "boh": {
-        "approved": [],
-        "pending": [
+        "approved": [
           "Jaelyn Dunlap"
         ],
+        "pending": [],
         "count": 1
       }
     },
     "2026-05-14": {
       "all": {
         "approved": [
+          "Allison Johnson",
           "Paige Wu"
         ],
         "pending": [],
-        "count": 1
+        "count": 2
       },
       "foh": {
         "approved": [
+          "Allison Johnson",
           "Paige Wu"
         ],
         "pending": [],
-        "count": 1
+        "count": 2
       },
       "boh": {
         "approved": [
@@ -3064,23 +2953,25 @@
     "2026-05-15": {
       "all": {
         "approved": [
+          "Allison Johnson",
           "Paige Wu"
         ],
         "pending": [
           "Christian Cassell",
           "Madison Wilkie"
         ],
-        "count": 3
+        "count": 4
       },
       "foh": {
         "approved": [
+          "Allison Johnson",
           "Paige Wu"
         ],
         "pending": [
           "Christian Cassell",
           "Madison Wilkie"
         ],
-        "count": 3
+        "count": 4
       },
       "boh": {
         "approved": [
@@ -3093,23 +2984,25 @@
     "2026-05-16": {
       "all": {
         "approved": [
+          "Allison Johnson",
           "Paige Wu"
         ],
         "pending": [
           "Christian Cassell",
           "Madison Wilkie"
         ],
-        "count": 3
+        "count": 4
       },
       "foh": {
         "approved": [
+          "Allison Johnson",
           "Paige Wu"
         ],
         "pending": [
           "Christian Cassell",
           "Madison Wilkie"
         ],
-        "count": 3
+        "count": 4
       },
       "boh": {
         "approved": [
@@ -3122,21 +3015,23 @@
     "2026-05-17": {
       "all": {
         "approved": [
+          "Allison Johnson",
           "Paige Wu"
         ],
         "pending": [
           "Madison Wilkie"
         ],
-        "count": 2
+        "count": 3
       },
       "foh": {
         "approved": [
+          "Allison Johnson",
           "Paige Wu"
         ],
         "pending": [
           "Madison Wilkie"
         ],
-        "count": 2
+        "count": 3
       },
       "boh": {
         "approved": [
@@ -3196,11 +3091,10 @@
       "all": {
         "approved": [
           "Abigail Mojica",
+          "Daemyn Ortega",
           "Paige Wu"
         ],
-        "pending": [
-          "Daemyn Ortega"
-        ],
+        "pending": [],
         "count": 3
       },
       "foh": {
@@ -3213,19 +3107,18 @@
       "boh": {
         "approved": [
           "Abigail Mojica",
+          "Daemyn Ortega",
           "Paige Wu"
         ],
-        "pending": [
-          "Daemyn Ortega"
-        ],
+        "pending": [],
         "count": 3
       }
     },
-    "2026-05-22": {
+    "2026-05-21": {
       "all": {
         "approved": [],
         "pending": [
-          "Shalayna Swanson"
+          "Maiken Schmidt"
         ],
         "count": 1
       },
@@ -3237,17 +3130,38 @@
       "boh": {
         "approved": [],
         "pending": [
+          "Maiken Schmidt"
+        ],
+        "count": 1
+      }
+    },
+    "2026-05-22": {
+      "all": {
+        "approved": [
           "Shalayna Swanson"
         ],
+        "pending": [],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      },
+      "boh": {
+        "approved": [
+          "Shalayna Swanson"
+        ],
+        "pending": [],
         "count": 1
       }
     },
     "2026-05-23": {
       "all": {
-        "approved": [],
-        "pending": [
+        "approved": [
           "Shalayna Swanson"
         ],
+        "pending": [],
         "count": 1
       },
       "foh": {
@@ -3256,19 +3170,19 @@
         "count": 0
       },
       "boh": {
-        "approved": [],
-        "pending": [
+        "approved": [
           "Shalayna Swanson"
         ],
+        "pending": [],
         "count": 1
       }
     },
     "2026-05-24": {
       "all": {
-        "approved": [],
-        "pending": [
+        "approved": [
           "Shalayna Swanson"
         ],
+        "pending": [],
         "count": 1
       },
       "foh": {
@@ -3277,19 +3191,19 @@
         "count": 0
       },
       "boh": {
-        "approved": [],
-        "pending": [
+        "approved": [
           "Shalayna Swanson"
         ],
+        "pending": [],
         "count": 1
       }
     },
     "2026-05-25": {
       "all": {
-        "approved": [],
-        "pending": [
+        "approved": [
           "Shalayna Swanson"
         ],
+        "pending": [],
         "count": 1
       },
       "foh": {
@@ -3298,19 +3212,19 @@
         "count": 0
       },
       "boh": {
-        "approved": [],
-        "pending": [
+        "approved": [
           "Shalayna Swanson"
         ],
+        "pending": [],
         "count": 1
       }
     },
     "2026-05-26": {
       "all": {
-        "approved": [],
-        "pending": [
+        "approved": [
           "Shalayna Swanson"
         ],
+        "pending": [],
         "count": 1
       },
       "foh": {
@@ -3319,26 +3233,26 @@
         "count": 0
       },
       "boh": {
-        "approved": [],
-        "pending": [
+        "approved": [
           "Shalayna Swanson"
         ],
+        "pending": [],
         "count": 1
       }
     },
     "2026-05-27": {
       "all": {
-        "approved": [],
-        "pending": [
+        "approved": [
           "Ngan Hoang"
         ],
+        "pending": [],
         "count": 1
       },
       "foh": {
-        "approved": [],
-        "pending": [
+        "approved": [
           "Ngan Hoang"
         ],
+        "pending": [],
         "count": 1
       },
       "boh": {
@@ -3352,15 +3266,19 @@
         "approved": [
           "Sahara Brazelton"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Ngan Hoang"
+        ],
+        "count": 2
       },
       "foh": {
         "approved": [
           "Sahara Brazelton"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Ngan Hoang"
+        ],
+        "count": 2
       },
       "boh": {
         "approved": [],
@@ -3373,15 +3291,19 @@
         "approved": [
           "Sahara Brazelton"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Ngan Hoang"
+        ],
+        "count": 2
       },
       "foh": {
         "approved": [
           "Sahara Brazelton"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Ngan Hoang"
+        ],
+        "count": 2
       },
       "boh": {
         "approved": [],
@@ -3395,15 +3317,19 @@
           "Jaidyn Lee",
           "Sahara Brazelton"
         ],
-        "pending": [],
-        "count": 2
+        "pending": [
+          "Ngan Hoang"
+        ],
+        "count": 3
       },
       "foh": {
         "approved": [
           "Sahara Brazelton"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Ngan Hoang"
+        ],
+        "count": 2
       },
       "boh": {
         "approved": [
@@ -3419,15 +3345,19 @@
           "Jaidyn Lee",
           "Sahara Brazelton"
         ],
-        "pending": [],
-        "count": 2
+        "pending": [
+          "Ngan Hoang"
+        ],
+        "count": 3
       },
       "foh": {
         "approved": [
           "Sahara Brazelton"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Ngan Hoang"
+        ],
+        "count": 2
       },
       "boh": {
         "approved": [
@@ -3443,15 +3373,19 @@
           "Jaidyn Lee",
           "Sahara Brazelton"
         ],
-        "pending": [],
-        "count": 2
+        "pending": [
+          "Ngan Hoang"
+        ],
+        "count": 3
       },
       "foh": {
         "approved": [
           "Sahara Brazelton"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Ngan Hoang"
+        ],
+        "count": 2
       },
       "boh": {
         "approved": [
@@ -3537,10 +3471,10 @@
       "all": {
         "approved": [
           "Jaidyn Lee",
+          "Juan Padilla Ruiz",
           "Sahara Brazelton"
         ],
         "pending": [
-          "Juan Padilla Ruiz",
           "Madison Wilkie"
         ],
         "count": 4
@@ -3556,11 +3490,10 @@
       },
       "boh": {
         "approved": [
-          "Jaidyn Lee"
-        ],
-        "pending": [
+          "Jaidyn Lee",
           "Juan Padilla Ruiz"
         ],
+        "pending": [],
         "count": 2
       }
     },
@@ -3568,11 +3501,10 @@
       "all": {
         "approved": [
           "Jaidyn Lee",
-          "Sahara Brazelton"
-        ],
-        "pending": [
+          "Sahara Brazelton",
           "Trinity Reese"
         ],
+        "pending": [],
         "count": 3
       },
       "foh": {
@@ -3584,11 +3516,10 @@
       },
       "boh": {
         "approved": [
-          "Jaidyn Lee"
-        ],
-        "pending": [
+          "Jaidyn Lee",
           "Trinity Reese"
         ],
+        "pending": [],
         "count": 2
       }
     },
@@ -3718,22 +3649,24 @@
       "all": {
         "approved": [
           "Paige Reyes",
-          "Sahara Brazelton"
+          "Sahara Brazelton",
+          "Xavier Marcus"
         ],
         "pending": [
           "Britney Nova"
         ],
-        "count": 3
+        "count": 4
       },
       "foh": {
         "approved": [
           "Paige Reyes",
-          "Sahara Brazelton"
+          "Sahara Brazelton",
+          "Xavier Marcus"
         ],
         "pending": [
           "Britney Nova"
         ],
-        "count": 3
+        "count": 4
       },
       "boh": {
         "approved": [
@@ -3750,25 +3683,27 @@
           "Maiken Schmidt",
           "Ngan Hoang",
           "Paige Reyes",
-          "Sahara Brazelton"
+          "Sahara Brazelton",
+          "Xavier Marcus"
         ],
         "pending": [
           "Britney Nova",
           "Madison Wilkie"
         ],
-        "count": 7
+        "count": 8
       },
       "foh": {
         "approved": [
           "Ngan Hoang",
           "Paige Reyes",
-          "Sahara Brazelton"
+          "Sahara Brazelton",
+          "Xavier Marcus"
         ],
         "pending": [
           "Britney Nova",
           "Madison Wilkie"
         ],
-        "count": 5
+        "count": 6
       },
       "boh": {
         "approved": [
@@ -3786,23 +3721,25 @@
           "Maiken Schmidt",
           "Ngan Hoang",
           "Paige Reyes",
-          "Sahara Brazelton"
+          "Sahara Brazelton",
+          "Xavier Marcus"
         ],
         "pending": [
           "Madison Wilkie"
         ],
-        "count": 5
+        "count": 6
       },
       "foh": {
         "approved": [
           "Ngan Hoang",
           "Paige Reyes",
-          "Sahara Brazelton"
+          "Sahara Brazelton",
+          "Xavier Marcus"
         ],
         "pending": [
           "Madison Wilkie"
         ],
-        "count": 4
+        "count": 5
       },
       "boh": {
         "approved": [
@@ -3818,22 +3755,24 @@
         "approved": [
           "Maiken Schmidt",
           "Ngan Hoang",
-          "Paige Reyes"
+          "Paige Reyes",
+          "Xavier Marcus"
+        ],
+        "pending": [
+          "Madison Wilkie"
+        ],
+        "count": 5
+      },
+      "foh": {
+        "approved": [
+          "Ngan Hoang",
+          "Paige Reyes",
+          "Xavier Marcus"
         ],
         "pending": [
           "Madison Wilkie"
         ],
         "count": 4
-      },
-      "foh": {
-        "approved": [
-          "Ngan Hoang",
-          "Paige Reyes"
-        ],
-        "pending": [
-          "Madison Wilkie"
-        ],
-        "count": 3
       },
       "boh": {
         "approved": [
@@ -4087,17 +4026,19 @@
         "approved": [],
         "pending": [
           "Jillian Lilak",
+          "Natalia Cameron",
           "Zoe Marshall"
         ],
-        "count": 2
+        "count": 3
       },
       "foh": {
         "approved": [],
         "pending": [
           "Jillian Lilak",
+          "Natalia Cameron",
           "Zoe Marshall"
         ],
-        "count": 2
+        "count": 3
       },
       "boh": {
         "approved": [],
@@ -4110,17 +4051,19 @@
         "approved": [],
         "pending": [
           "Jillian Lilak",
+          "Natalia Cameron",
           "Zoe Marshall"
         ],
-        "count": 2
+        "count": 3
       },
       "foh": {
         "approved": [],
         "pending": [
           "Jillian Lilak",
+          "Natalia Cameron",
           "Zoe Marshall"
         ],
-        "count": 2
+        "count": 3
       },
       "boh": {
         "approved": [],
@@ -4132,16 +4075,18 @@
       "all": {
         "approved": [],
         "pending": [
+          "Natalia Cameron",
           "Zoe Marshall"
         ],
-        "count": 1
+        "count": 2
       },
       "foh": {
         "approved": [],
         "pending": [
+          "Natalia Cameron",
           "Zoe Marshall"
         ],
-        "count": 1
+        "count": 2
       },
       "boh": {
         "approved": [],
@@ -4153,16 +4098,18 @@
       "all": {
         "approved": [],
         "pending": [
+          "Natalia Cameron",
           "Zoe Marshall"
         ],
-        "count": 1
+        "count": 2
       },
       "foh": {
         "approved": [],
         "pending": [
+          "Natalia Cameron",
           "Zoe Marshall"
         ],
-        "count": 1
+        "count": 2
       },
       "boh": {
         "approved": [],
@@ -4174,16 +4121,18 @@
       "all": {
         "approved": [],
         "pending": [
+          "Natalia Cameron",
           "Zoe Marshall"
         ],
-        "count": 1
+        "count": 2
       },
       "foh": {
         "approved": [],
         "pending": [
+          "Natalia Cameron",
           "Zoe Marshall"
         ],
-        "count": 1
+        "count": 2
       },
       "boh": {
         "approved": [],
@@ -4195,16 +4144,18 @@
       "all": {
         "approved": [],
         "pending": [
+          "Natalia Cameron",
           "Zoe Marshall"
         ],
-        "count": 1
+        "count": 2
       },
       "foh": {
         "approved": [],
         "pending": [
+          "Natalia Cameron",
           "Zoe Marshall"
         ],
-        "count": 1
+        "count": 2
       },
       "boh": {
         "approved": [],
@@ -4237,16 +4188,20 @@
       "all": {
         "approved": [],
         "pending": [
+          "Cooper Fisken",
+          "Ngan Hoang",
           "Zoe Marshall"
         ],
-        "count": 1
+        "count": 3
       },
       "foh": {
         "approved": [],
         "pending": [
+          "Cooper Fisken",
+          "Ngan Hoang",
           "Zoe Marshall"
         ],
-        "count": 1
+        "count": 3
       },
       "boh": {
         "approved": [],
@@ -4259,16 +4214,20 @@
         "approved": [],
         "pending": [
           "Ashlynn Voges",
+          "Cooper Fisken",
+          "Ngan Hoang",
           "Zoe Marshall"
         ],
-        "count": 2
+        "count": 4
       },
       "foh": {
         "approved": [],
         "pending": [
+          "Cooper Fisken",
+          "Ngan Hoang",
           "Zoe Marshall"
         ],
-        "count": 1
+        "count": 3
       },
       "boh": {
         "approved": [],
@@ -4286,19 +4245,23 @@
         ],
         "pending": [
           "Ashlynn Voges",
+          "Cooper Fisken",
           "Jaelyn Dunlap",
+          "Ngan Hoang",
           "Zoe Marshall"
         ],
-        "count": 5
+        "count": 7
       },
       "foh": {
         "approved": [
           "Natalia Cameron"
         ],
         "pending": [
+          "Cooper Fisken",
+          "Ngan Hoang",
           "Zoe Marshall"
         ],
-        "count": 2
+        "count": 4
       },
       "boh": {
         "approved": [
@@ -4316,16 +4279,20 @@
         "approved": [],
         "pending": [
           "Ashlynn Voges",
+          "Cooper Fisken",
+          "Ngan Hoang",
           "Zoe Marshall"
         ],
-        "count": 2
+        "count": 4
       },
       "foh": {
         "approved": [],
         "pending": [
+          "Cooper Fisken",
+          "Ngan Hoang",
           "Zoe Marshall"
         ],
-        "count": 1
+        "count": 3
       },
       "boh": {
         "approved": [],
@@ -4339,16 +4306,20 @@
       "all": {
         "approved": [],
         "pending": [
+          "Cooper Fisken",
+          "Ngan Hoang",
           "Zoe Marshall"
         ],
-        "count": 1
+        "count": 3
       },
       "foh": {
         "approved": [],
         "pending": [
+          "Cooper Fisken",
+          "Ngan Hoang",
           "Zoe Marshall"
         ],
-        "count": 1
+        "count": 3
       },
       "boh": {
         "approved": [],
@@ -4360,14 +4331,39 @@
       "all": {
         "approved": [],
         "pending": [
+          "Cooper Fisken",
+          "Ngan Hoang",
           "Zoe Marshall"
+        ],
+        "count": 3
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken",
+          "Ngan Hoang",
+          "Zoe Marshall"
+        ],
+        "count": 3
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      }
+    },
+    "2026-07-08": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
         ],
         "count": 1
       },
       "foh": {
         "approved": [],
         "pending": [
-          "Zoe Marshall"
+          "Cooper Fisken"
         ],
         "count": 1
       },
@@ -4381,21 +4377,26 @@
       "all": {
         "approved": [],
         "pending": [
+          "Cooper Fisken",
+          "Drexil Beard",
           "Lilly Pinnell"
         ],
-        "count": 1
+        "count": 3
       },
       "foh": {
         "approved": [],
         "pending": [
+          "Cooper Fisken",
           "Lilly Pinnell"
         ],
-        "count": 1
+        "count": 2
       },
       "boh": {
         "approved": [],
-        "pending": [],
-        "count": 0
+        "pending": [
+          "Drexil Beard"
+        ],
+        "count": 1
       }
     },
     "2026-07-10": {
@@ -4404,23 +4405,28 @@
           "jillian Seitz"
         ],
         "pending": [
+          "Cooper Fisken",
+          "Drexil Beard",
           "Lilly Pinnell"
         ],
-        "count": 2
+        "count": 4
       },
       "foh": {
         "approved": [
           "jillian Seitz"
         ],
         "pending": [
+          "Cooper Fisken",
           "Lilly Pinnell"
         ],
-        "count": 2
+        "count": 3
       },
       "boh": {
         "approved": [],
-        "pending": [],
-        "count": 0
+        "pending": [
+          "Drexil Beard"
+        ],
+        "count": 1
       }
     },
     "2026-07-11": {
@@ -4428,20 +4434,27 @@
         "approved": [
           "jillian Seitz"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Cooper Fisken",
+          "Drexil Beard"
+        ],
+        "count": 3
       },
       "foh": {
         "approved": [
           "jillian Seitz"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 2
       },
       "boh": {
         "approved": [],
-        "pending": [],
-        "count": 0
+        "pending": [
+          "Drexil Beard"
+        ],
+        "count": 1
       }
     },
     "2026-07-12": {
@@ -4450,39 +4463,46 @@
           "jillian Seitz"
         ],
         "pending": [
+          "Cooper Fisken",
+          "Drexil Beard",
           "Lilly Pinnell"
         ],
-        "count": 2
+        "count": 4
       },
       "foh": {
         "approved": [
           "jillian Seitz"
         ],
         "pending": [
+          "Cooper Fisken",
           "Lilly Pinnell"
         ],
-        "count": 2
+        "count": 3
       },
       "boh": {
         "approved": [],
-        "pending": [],
-        "count": 0
+        "pending": [
+          "Drexil Beard"
+        ],
+        "count": 1
       }
     },
     "2026-07-13": {
       "all": {
         "approved": [],
         "pending": [
+          "Cooper Fisken",
           "Lilly Pinnell"
         ],
-        "count": 1
+        "count": 2
       },
       "foh": {
         "approved": [],
         "pending": [
+          "Cooper Fisken",
           "Lilly Pinnell"
         ],
-        "count": 1
+        "count": 2
       },
       "boh": {
         "approved": [],
@@ -4494,18 +4514,20 @@
       "all": {
         "approved": [],
         "pending": [
+          "Cooper Fisken",
           "Lilly Pinnell",
           "Natalia Cameron"
         ],
-        "count": 2
+        "count": 3
       },
       "foh": {
         "approved": [],
         "pending": [
+          "Cooper Fisken",
           "Lilly Pinnell",
           "Natalia Cameron"
         ],
-        "count": 2
+        "count": 3
       },
       "boh": {
         "approved": [],
@@ -4517,16 +4539,18 @@
       "all": {
         "approved": [],
         "pending": [
+          "Cooper Fisken",
           "Lilly Pinnell"
         ],
-        "count": 1
+        "count": 2
       },
       "foh": {
         "approved": [],
         "pending": [
+          "Cooper Fisken",
           "Lilly Pinnell"
         ],
-        "count": 1
+        "count": 2
       },
       "boh": {
         "approved": [],
@@ -4539,16 +4563,18 @@
         "approved": [],
         "pending": [
           "Ashlynn Voges",
+          "Cooper Fisken",
           "Lilly Pinnell"
         ],
-        "count": 2
+        "count": 3
       },
       "foh": {
         "approved": [],
         "pending": [
+          "Cooper Fisken",
           "Lilly Pinnell"
         ],
-        "count": 1
+        "count": 2
       },
       "boh": {
         "approved": [],
@@ -4563,18 +4589,20 @@
         "approved": [],
         "pending": [
           "Ashlynn Voges",
+          "Cooper Fisken",
           "Lilly Pinnell",
           "Natalia Cameron"
         ],
-        "count": 3
+        "count": 4
       },
       "foh": {
         "approved": [],
         "pending": [
+          "Cooper Fisken",
           "Lilly Pinnell",
           "Natalia Cameron"
         ],
-        "count": 2
+        "count": 3
       },
       "boh": {
         "approved": [],
@@ -4589,16 +4617,18 @@
         "approved": [],
         "pending": [
           "Ashlynn Voges",
+          "Cooper Fisken",
           "Lilly Pinnell"
         ],
-        "count": 2
+        "count": 3
       },
       "foh": {
         "approved": [],
         "pending": [
+          "Cooper Fisken",
           "Lilly Pinnell"
         ],
-        "count": 1
+        "count": 2
       },
       "boh": {
         "approved": [],
@@ -4612,14 +4642,17 @@
       "all": {
         "approved": [],
         "pending": [
-          "Ashlynn Voges"
+          "Ashlynn Voges",
+          "Cooper Fisken"
         ],
-        "count": 1
+        "count": 2
       },
       "foh": {
         "approved": [],
-        "pending": [],
-        "count": 0
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
       },
       "boh": {
         "approved": [],
@@ -4633,14 +4666,17 @@
       "all": {
         "approved": [],
         "pending": [
-          "Ashlynn Voges"
+          "Ashlynn Voges",
+          "Cooper Fisken"
         ],
-        "count": 1
+        "count": 2
       },
       "foh": {
         "approved": [],
-        "pending": [],
-        "count": 0
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
       },
       "boh": {
         "approved": [],
@@ -4655,16 +4691,18 @@
         "approved": [],
         "pending": [
           "Ashlynn Voges",
+          "Cooper Fisken",
           "Natalia Cameron"
         ],
-        "count": 2
+        "count": 3
       },
       "foh": {
         "approved": [],
         "pending": [
+          "Cooper Fisken",
           "Natalia Cameron"
         ],
-        "count": 1
+        "count": 2
       },
       "boh": {
         "approved": [],
@@ -4679,14 +4717,17 @@
         "approved": [],
         "pending": [
           "Ashlynn Voges",
+          "Cooper Fisken",
           "Shalayna Swanson"
         ],
-        "count": 2
+        "count": 3
       },
       "foh": {
         "approved": [],
-        "pending": [],
-        "count": 0
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
       },
       "boh": {
         "approved": [],
@@ -4704,18 +4745,20 @@
         ],
         "pending": [
           "Ashlynn Voges",
+          "Cooper Fisken",
           "Donna Rangel"
         ],
-        "count": 3
+        "count": 4
       },
       "foh": {
         "approved": [
           "Avalon McCarthy"
         ],
         "pending": [
+          "Cooper Fisken",
           "Donna Rangel"
         ],
-        "count": 2
+        "count": 3
       },
       "boh": {
         "approved": [],
@@ -4734,10 +4777,11 @@
         "pending": [
           "Ashlynn Voges",
           "Britney Nova",
+          "Cooper Fisken",
           "Donna Rangel",
           "Natalia Cameron"
         ],
-        "count": 5
+        "count": 6
       },
       "foh": {
         "approved": [
@@ -4745,10 +4789,11 @@
         ],
         "pending": [
           "Britney Nova",
+          "Cooper Fisken",
           "Donna Rangel",
           "Natalia Cameron"
         ],
-        "count": 4
+        "count": 5
       },
       "boh": {
         "approved": [],
@@ -4767,9 +4812,10 @@
         "pending": [
           "Ashlynn Voges",
           "Britney Nova",
+          "Cooper Fisken",
           "Donna Rangel"
         ],
-        "count": 4
+        "count": 5
       },
       "foh": {
         "approved": [
@@ -4777,9 +4823,10 @@
         ],
         "pending": [
           "Britney Nova",
+          "Cooper Fisken",
           "Donna Rangel"
         ],
-        "count": 3
+        "count": 4
       },
       "boh": {
         "approved": [],
@@ -4797,18 +4844,20 @@
         ],
         "pending": [
           "Ashlynn Voges",
+          "Cooper Fisken",
           "Donna Rangel"
         ],
-        "count": 3
+        "count": 4
       },
       "foh": {
         "approved": [
           "Avalon McCarthy"
         ],
         "pending": [
+          "Cooper Fisken",
           "Donna Rangel"
         ],
-        "count": 2
+        "count": 3
       },
       "boh": {
         "approved": [],
@@ -4825,16 +4874,19 @@
           "Avalon McCarthy"
         ],
         "pending": [
-          "Ashlynn Voges"
+          "Ashlynn Voges",
+          "Cooper Fisken"
         ],
-        "count": 2
+        "count": 3
       },
       "foh": {
         "approved": [
           "Avalon McCarthy"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 2
       },
       "boh": {
         "approved": [],
@@ -4848,14 +4900,17 @@
       "all": {
         "approved": [],
         "pending": [
-          "Ashlynn Voges"
+          "Ashlynn Voges",
+          "Cooper Fisken"
         ],
-        "count": 1
+        "count": 2
       },
       "foh": {
         "approved": [],
-        "pending": [],
-        "count": 0
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
       },
       "boh": {
         "approved": [],
@@ -4869,14 +4924,17 @@
       "all": {
         "approved": [],
         "pending": [
-          "Ashlynn Voges"
+          "Ashlynn Voges",
+          "Cooper Fisken"
         ],
-        "count": 1
+        "count": 2
       },
       "foh": {
         "approved": [],
-        "pending": [],
-        "count": 0
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
       },
       "boh": {
         "approved": [],
@@ -4890,14 +4948,17 @@
       "all": {
         "approved": [],
         "pending": [
-          "Ashlynn Voges"
+          "Ashlynn Voges",
+          "Cooper Fisken"
         ],
-        "count": 1
+        "count": 2
       },
       "foh": {
         "approved": [],
-        "pending": [],
-        "count": 0
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
       },
       "boh": {
         "approved": [],
@@ -4907,20 +4968,299 @@
         "count": 1
       }
     },
+    "2026-07-31": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      }
+    },
+    "2026-08-01": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      }
+    },
+    "2026-08-02": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      }
+    },
+    "2026-08-03": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      }
+    },
+    "2026-08-04": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      }
+    },
+    "2026-08-05": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      }
+    },
+    "2026-08-06": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      }
+    },
+    "2026-08-07": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      }
+    },
+    "2026-08-08": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      }
+    },
+    "2026-08-09": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      }
+    },
+    "2026-08-10": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      }
+    },
+    "2026-08-11": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      }
+    },
+    "2026-08-12": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      }
+    },
     "2026-08-13": {
       "all": {
         "approved": [
           "Natalia Cameron"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Avalon McCarthy",
+          "Cooper Fisken"
+        ],
+        "count": 3
       },
       "foh": {
         "approved": [
           "Natalia Cameron"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Avalon McCarthy",
+          "Cooper Fisken"
+        ],
+        "count": 3
       },
       "boh": {
         "approved": [],
@@ -4933,15 +5273,21 @@
         "approved": [
           "Natalia Cameron"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Avalon McCarthy",
+          "Cooper Fisken"
+        ],
+        "count": 3
       },
       "foh": {
         "approved": [
           "Natalia Cameron"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Avalon McCarthy",
+          "Cooper Fisken"
+        ],
+        "count": 3
       },
       "boh": {
         "approved": [],
@@ -4953,16 +5299,43 @@
       "all": {
         "approved": [],
         "pending": [
+          "Avalon McCarthy",
+          "Cooper Fisken",
           "jillian Seitz"
         ],
-        "count": 1
+        "count": 3
       },
       "foh": {
         "approved": [],
         "pending": [
+          "Avalon McCarthy",
+          "Cooper Fisken",
           "jillian Seitz"
         ],
-        "count": 1
+        "count": 3
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      }
+    },
+    "2026-08-16": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Avalon McCarthy",
+          "Cooper Fisken"
+        ],
+        "count": 2
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Avalon McCarthy",
+          "Cooper Fisken"
+        ],
+        "count": 2
       },
       "boh": {
         "approved": [],
@@ -4974,16 +5347,20 @@
       "all": {
         "approved": [],
         "pending": [
+          "Avalon McCarthy",
+          "Cooper Fisken",
           "Natalia Cameron"
         ],
-        "count": 1
+        "count": 3
       },
       "foh": {
         "approved": [],
         "pending": [
+          "Avalon McCarthy",
+          "Cooper Fisken",
           "Natalia Cameron"
         ],
-        "count": 1
+        "count": 3
       },
       "boh": {
         "approved": [],
@@ -4995,16 +5372,20 @@
       "all": {
         "approved": [],
         "pending": [
+          "Avalon McCarthy",
+          "Cooper Fisken",
           "Natalia Cameron"
         ],
-        "count": 1
+        "count": 3
       },
       "foh": {
         "approved": [],
         "pending": [
+          "Avalon McCarthy",
+          "Cooper Fisken",
           "Natalia Cameron"
         ],
-        "count": 1
+        "count": 3
       },
       "boh": {
         "approved": [],
@@ -5016,16 +5397,20 @@
       "all": {
         "approved": [],
         "pending": [
+          "Avalon McCarthy",
+          "Cooper Fisken",
           "Natalia Cameron"
         ],
-        "count": 1
+        "count": 3
       },
       "foh": {
         "approved": [],
         "pending": [
+          "Avalon McCarthy",
+          "Cooper Fisken",
           "Natalia Cameron"
         ],
-        "count": 1
+        "count": 3
       },
       "boh": {
         "approved": [],
@@ -5037,17 +5422,21 @@
       "all": {
         "approved": [],
         "pending": [
+          "Avalon McCarthy",
+          "Cooper Fisken",
           "Jaelyn Dunlap",
           "Natalia Cameron"
         ],
-        "count": 2
+        "count": 4
       },
       "foh": {
         "approved": [],
         "pending": [
+          "Avalon McCarthy",
+          "Cooper Fisken",
           "Natalia Cameron"
         ],
-        "count": 1
+        "count": 3
       },
       "boh": {
         "approved": [],
@@ -5061,17 +5450,19 @@
       "all": {
         "approved": [],
         "pending": [
+          "Cooper Fisken",
           "Jaelyn Dunlap",
           "Natalia Cameron"
         ],
-        "count": 2
+        "count": 3
       },
       "foh": {
         "approved": [],
         "pending": [
+          "Cooper Fisken",
           "Natalia Cameron"
         ],
-        "count": 1
+        "count": 2
       },
       "boh": {
         "approved": [],
@@ -5079,6 +5470,195 @@
           "Jaelyn Dunlap"
         ],
         "count": 1
+      }
+    },
+    "2026-08-22": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      }
+    },
+    "2026-08-23": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      }
+    },
+    "2026-08-24": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      }
+    },
+    "2026-08-25": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      }
+    },
+    "2026-08-26": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      }
+    },
+    "2026-08-27": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      }
+    },
+    "2026-08-28": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      }
+    },
+    "2026-08-29": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      }
+    },
+    "2026-08-30": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Cooper Fisken"
+        ],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
       }
     },
     "2026-09-04": {
@@ -5165,11 +5745,11 @@
         "count": 0
       }
     },
-    "2026-10-30": {
+    "2026-10-03": {
       "all": {
         "approved": [],
         "pending": [
-          "Jaelyn Dunlap"
+          "Tya Domenico"
         ],
         "count": 1
       },
@@ -5177,6 +5757,30 @@
         "approved": [],
         "pending": [],
         "count": 0
+      },
+      "boh": {
+        "approved": [],
+        "pending": [
+          "Tya Domenico"
+        ],
+        "count": 1
+      }
+    },
+    "2026-10-30": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Aubrey Reed",
+          "Jaelyn Dunlap"
+        ],
+        "count": 2
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Aubrey Reed"
+        ],
+        "count": 1
       },
       "boh": {
         "approved": [],
@@ -5191,8 +5795,10 @@
         "approved": [
           "Maiken Schmidt"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Tya Domenico"
+        ],
+        "count": 2
       },
       "foh": {
         "approved": [],
@@ -5203,24 +5809,135 @@
         "approved": [
           "Maiken Schmidt"
         ],
-        "pending": [],
-        "count": 1
+        "pending": [
+          "Tya Domenico"
+        ],
+        "count": 2
       }
     },
-    "2026-12-23": {
+    "2026-11-25": {
       "all": {
         "approved": [],
         "pending": [
-          "Paige Wu"
+          "Natalia Cameron"
         ],
         "count": 1
       },
       "foh": {
         "approved": [],
         "pending": [
-          "Paige Wu"
+          "Natalia Cameron"
         ],
         "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      }
+    },
+    "2026-11-26": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Natalia Cameron"
+        ],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Natalia Cameron"
+        ],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      }
+    },
+    "2026-11-27": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Natalia Cameron"
+        ],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Natalia Cameron"
+        ],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      }
+    },
+    "2026-12-04": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Aubrey Reed"
+        ],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Aubrey Reed"
+        ],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      }
+    },
+    "2026-12-05": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Aubrey Reed"
+        ],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Aubrey Reed"
+        ],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
+      }
+    },
+    "2026-12-23": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Aubrey Reed",
+          "Natalia Cameron",
+          "Paige Wu"
+        ],
+        "count": 3
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Aubrey Reed",
+          "Natalia Cameron",
+          "Paige Wu"
+        ],
+        "count": 3
       },
       "boh": {
         "approved": [],
@@ -5234,16 +5951,20 @@
       "all": {
         "approved": [],
         "pending": [
+          "Aubrey Reed",
+          "Natalia Cameron",
           "Paige Wu"
         ],
-        "count": 1
+        "count": 3
       },
       "foh": {
         "approved": [],
         "pending": [
+          "Aubrey Reed",
+          "Natalia Cameron",
           "Paige Wu"
         ],
-        "count": 1
+        "count": 3
       },
       "boh": {
         "approved": [],
@@ -5257,16 +5978,20 @@
       "all": {
         "approved": [],
         "pending": [
+          "Aubrey Reed",
+          "Natalia Cameron",
           "Paige Wu"
         ],
-        "count": 1
+        "count": 3
       },
       "foh": {
         "approved": [],
         "pending": [
+          "Aubrey Reed",
+          "Natalia Cameron",
           "Paige Wu"
         ],
-        "count": 1
+        "count": 3
       },
       "boh": {
         "approved": [],
@@ -5280,16 +6005,20 @@
       "all": {
         "approved": [],
         "pending": [
+          "Aubrey Reed",
+          "Natalia Cameron",
           "Paige Wu"
         ],
-        "count": 1
+        "count": 3
       },
       "foh": {
         "approved": [],
         "pending": [
+          "Aubrey Reed",
+          "Natalia Cameron",
           "Paige Wu"
         ],
-        "count": 1
+        "count": 3
       },
       "boh": {
         "approved": [],
@@ -5297,6 +6026,27 @@
           "Paige Wu"
         ],
         "count": 1
+      }
+    },
+    "2026-12-27": {
+      "all": {
+        "approved": [],
+        "pending": [
+          "Natalia Cameron"
+        ],
+        "count": 1
+      },
+      "foh": {
+        "approved": [],
+        "pending": [
+          "Natalia Cameron"
+        ],
+        "count": 1
+      },
+      "boh": {
+        "approved": [],
+        "pending": [],
+        "count": 0
       }
     }
   }
