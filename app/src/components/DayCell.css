@@ -1,0 +1,68 @@
+.day-cell {
+  position: relative;
+  aspect-ratio: 1;
+  border-radius: var(--radius-sm);
+  background: #f0eeeb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: transform 0.08s, box-shadow 0.08s;
+  min-height: 44px;
+}
+
+.day-cell:hover {
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-sm);
+}
+
+.day-cell.selected {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 1px;
+}
+
+.day-number {
+  position: absolute;
+  top: 4px;
+  right: 6px;
+  font-size: 0.65rem;
+  color: rgba(0, 0, 0, 0.45);
+  font-weight: 500;
+}
+
+.day-count {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+/* Heat levels */
+.heat-low {
+  background: var(--heat-low);
+}
+
+.heat-medium {
+  background: var(--heat-medium);
+}
+
+.heat-high {
+  background: var(--heat-high);
+}
+
+.heat-critical {
+  background: var(--heat-critical);
+}
+
+@media (max-width: 480px) {
+  .day-cell {
+    min-height: 38px;
+  }
+
+  .day-count {
+    font-size: 1rem;
+  }
+
+  .day-number {
+    font-size: 0.6rem;
+  }
+}

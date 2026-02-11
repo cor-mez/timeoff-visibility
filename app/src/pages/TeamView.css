@@ -1,0 +1,35 @@
+.team-view {
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+.team-view-loading {
+  text-align: center;
+  color: var(--color-text-secondary);
+  padding: 60px 20px;
+  font-size: 1rem;
+}
+
+.team-view-nav {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 16px;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.team-view-nav-link {
+  color: var(--color-text-secondary);
+  text-decoration: none;
+}
+
+.team-view-nav-link:hover {
+  color: var(--color-primary);
+  text-decoration: underline;
+}
+
+.team-view-nav-active {
+  color: var(--color-text);
+  border-bottom: 2px solid var(--color-primary);
+  padding-bottom: 2px;
+}

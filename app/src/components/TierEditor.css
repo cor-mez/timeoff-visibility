@@ -1,0 +1,155 @@
+.tier-editor {
+  margin-bottom: 24px;
+}
+
+.tier-editor h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+.tier-editor-desc {
+  font-size: 0.85rem;
+  color: var(--color-text-secondary);
+  margin-bottom: 10px;
+  line-height: 1.4;
+}
+
+.tier-editor-legend {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-bottom: 16px;
+  font-size: 0.8rem;
+}
+
+.tier-legend-item {
+  white-space: nowrap;
+}
+
+.tier-dept {
+  margin-bottom: 20px;
+}
+
+.tier-dept-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.tier-dept-header h4 {
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.tier-quick-actions {
+  display: flex;
+  gap: 6px;
+}
+
+.tier-quick-btn {
+  background: none;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  padding: 3px 8px;
+  font-family: var(--font-family);
+  font-size: 0.7rem;
+  cursor: pointer;
+  color: var(--color-text-secondary);
+}
+
+.tier-quick-btn:hover {
+  background: #f5f5f5;
+}
+
+.tier-list {
+  max-height: 400px;
+  overflow-y: auto;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  background: var(--color-surface);
+}
+
+.tier-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px 12px;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.tier-row:last-child {
+  border-bottom: none;
+}
+
+.tier-name {
+  font-size: 0.85rem;
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  margin-right: 8px;
+}
+
+.tier-buttons {
+  display: flex;
+  gap: 3px;
+  flex-shrink: 0;
+}
+
+.tier-btn {
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  padding: 3px 8px;
+  font-family: var(--font-family);
+  font-size: 0.7rem;
+  cursor: pointer;
+  background: transparent;
+  color: var(--color-text-secondary);
+  transition: background 0.1s;
+  white-space: nowrap;
+}
+
+.tier-btn:hover {
+  background: #f0f0f0;
+}
+
+.tier-btn.active {
+  font-weight: 600;
+  color: var(--color-text);
+}
+
+.tier-btn-full.active {
+  background: #c8e6c9;
+  border-color: #a5d6a7;
+}
+
+.tier-btn-part.active {
+  background: #fff9c4;
+  border-color: #fff176;
+}
+
+.tier-btn-limited.active {
+  background: #ffcdd2;
+  border-color: #ef9a9a;
+}
+
+.tier-save-btn {
+  margin-top: 8px;
+}
+
+@media (max-width: 480px) {
+  .tier-row {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+    padding: 8px 12px;
+  }
+
+  .tier-buttons {
+    width: 100%;
+    justify-content: flex-start;
+  }
+}

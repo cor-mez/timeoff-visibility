@@ -1,0 +1,50 @@
+.staffing-view {
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+.staffing-view-loading {
+  text-align: center;
+  color: var(--color-text-secondary);
+  padding: 60px 20px;
+}
+
+.staffing-view-nav {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 16px;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.staffing-view-nav-link {
+  color: var(--color-text-secondary);
+  text-decoration: none;
+}
+
+.staffing-view-nav-link:hover {
+  color: var(--color-primary);
+  text-decoration: underline;
+}
+
+.staffing-view-nav-active {
+  color: var(--color-text);
+  border-bottom: 2px solid var(--color-primary);
+  padding-bottom: 2px;
+}
+
+.staffing-week-label {
+  font-size: 0.85rem;
+  color: var(--color-text-secondary);
+  margin-bottom: 12px;
+}
+
+.staffing-dept-toggle {
+  display: inline-flex;
+  gap: 4px;
+  padding: 6px;
+  margin-bottom: 16px;
+  background: rgba(250, 249, 247, 0.95);
+  border-radius: var(--radius-pill);
+  box-shadow: var(--shadow-sm);
+}

@@ -1,0 +1,96 @@
+.staffing-empty {
+  text-align: center;
+  color: var(--color-text-secondary);
+  padding: 40px 20px;
+}
+
+.staffing-grid-wrapper {
+  margin-bottom: 20px;
+}
+
+.staffing-grid-scroll {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.staffing-grid {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85rem;
+  min-width: 420px;
+}
+
+.staffing-grid th {
+  padding: 8px 6px;
+  text-align: center;
+  font-weight: 600;
+  font-size: 0.8rem;
+  border-bottom: 2px solid var(--color-border);
+}
+
+.staffing-date-sub {
+  font-size: 0.7rem;
+  font-weight: 400;
+  color: var(--color-text-secondary);
+}
+
+.staffing-hour-header {
+  text-align: left;
+  min-width: 60px;
+}
+
+.staffing-hour-label {
+  text-align: left;
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: var(--color-text-secondary);
+  white-space: nowrap;
+  padding: 6px 8px;
+  border-right: 1px solid var(--color-border);
+}
+
+.staffing-cell {
+  text-align: center;
+  padding: 6px 4px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: opacity 0.1s;
+  border: 1px solid rgba(0, 0, 0, 0.04);
+  min-width: 44px;
+}
+
+.staffing-cell:hover {
+  opacity: 0.8;
+}
+
+/* Staffing heat colors */
+.staffing-green {
+  background: #c8e6c9;
+  color: #1b5e20;
+}
+
+.staffing-yellow {
+  background: #fff9c4;
+  color: #f57f17;
+}
+
+.staffing-orange {
+  background: #ffe0b2;
+  color: #e65100;
+}
+
+.staffing-red {
+  background: #ffcdd2;
+  color: #b71c1c;
+}
+
+@media (max-width: 480px) {
+  .staffing-grid {
+    font-size: 0.75rem;
+  }
+
+  .staffing-cell {
+    padding: 5px 3px;
+    min-width: 36px;
+  }
+}

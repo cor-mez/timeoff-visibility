@@ -1,0 +1,52 @@
+.manage-view {
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+.manage-view-loading {
+  text-align: center;
+  color: var(--color-text-secondary);
+  padding: 60px 20px;
+  font-size: 1rem;
+}
+
+.manage-denied {
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.manage-denied h2 {
+  margin-bottom: 8px;
+  color: var(--color-primary);
+}
+
+.manage-denied p {
+  color: var(--color-text-secondary);
+}
+
+.manage-section {
+  margin-bottom: 32px;
+}
+
+.manage-section h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.manage-btn-row {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 8px;
+}
+
+.staffing-dept-toggle {
+  display: inline-flex;
+  gap: 4px;
+  padding: 6px;
+  margin-bottom: 16px;
+  background: rgba(250, 249, 247, 0.95);
+  border-radius: var(--radius-pill);
+  box-shadow: var(--shadow-sm);
+}

@@ -1,0 +1,36 @@
+.calendar-empty {
+  text-align: center;
+  color: var(--color-text-secondary);
+  padding: 40px 20px;
+  font-size: 1.1rem;
+}
+
+.month {
+  margin-bottom: 40px;
+}
+
+.month-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.calendar-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 6px;
+}
+
+.dow {
+  font-size: 0.75rem;
+  text-align: center;
+  color: var(--color-text-secondary);
+  font-weight: 500;
+  padding-bottom: 4px;
+}
+
+@media (max-width: 480px) {
+  .calendar-grid {
+    gap: 4px;
+  }
+}

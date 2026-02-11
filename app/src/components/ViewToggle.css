@@ -1,0 +1,36 @@
+.view-toggle {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  display: inline-flex;
+  gap: 4px;
+  padding: 6px;
+  margin-bottom: 20px;
+  background: rgba(250, 249, 247, 0.95);
+  backdrop-filter: blur(6px);
+  border-radius: var(--radius-pill);
+  box-shadow: var(--shadow-sm);
+}
+
+.view-toggle-btn {
+  border: none;
+  padding: 8px 18px;
+  border-radius: var(--radius-pill);
+  font-family: var(--font-family);
+  font-size: 0.85rem;
+  font-weight: 600;
+  background: transparent;
+  cursor: pointer;
+  color: var(--color-text-secondary);
+  transition: background 0.15s, color 0.15s, box-shadow 0.15s;
+}
+
+.view-toggle-btn.active {
+  background: var(--color-surface);
+  color: var(--color-text);
+  box-shadow: var(--shadow-sm);
+}
+
+.view-toggle-btn:hover:not(.active) {
+  background: rgba(255, 255, 255, 0.5);
+}

@@ -1,0 +1,108 @@
+.staffing-settings {
+  margin-bottom: 24px;
+}
+
+.staffing-settings-toggle {
+  background: none;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: 10px 16px;
+  font-family: var(--font-family);
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+  color: var(--color-text);
+  transition: background 0.15s;
+}
+
+.staffing-settings-toggle:hover {
+  background: #f5f5f5;
+}
+
+.staffing-settings-body {
+  padding: 16px;
+  border: 1px solid var(--color-border);
+  border-top: none;
+  border-radius: 0 0 var(--radius-md) var(--radius-md);
+  background: var(--color-surface);
+}
+
+.staffing-settings-body h4 {
+  margin: 16px 0 8px;
+  font-size: 0.9rem;
+}
+
+.staffing-eff-row {
+  display: flex;
+  gap: 24px;
+  flex-wrap: wrap;
+  margin-bottom: 8px;
+}
+
+.staffing-eff-row label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+.staffing-eff-row input {
+  width: 60px;
+  padding: 4px 8px;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  font-family: var(--font-family);
+  font-size: 0.85rem;
+  text-align: center;
+}
+
+.staffing-needs-scroll {
+  overflow-x: auto;
+  margin-bottom: 12px;
+}
+
+.staffing-needs-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.8rem;
+}
+
+.staffing-needs-table th {
+  padding: 6px 8px;
+  text-align: center;
+  font-weight: 600;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.staffing-needs-table th:first-child {
+  text-align: left;
+}
+
+.staffing-needs-table td {
+  padding: 3px 6px;
+  text-align: center;
+}
+
+.staffing-needs-table td:first-child {
+  text-align: left;
+  font-weight: 500;
+  color: var(--color-text-secondary);
+  white-space: nowrap;
+}
+
+.staffing-needs-table input {
+  width: 50px;
+  padding: 3px 4px;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  font-family: var(--font-family);
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+.staffing-save-btn {
+  margin-top: 4px;
+}
