@@ -71,21 +71,57 @@ export default function ManageView() {
     setStatus({ type: "", message: "" });
 
     try {
-      const bohRecords = bohText.trim() ? parseRaw(bohText) : [];
-      const fohRecords = fohText.trim() ? parseRaw(fohText) : [];
+      const hasBoh = bohText.trim().length > 0;
+      const hasFoh = fohText.trim().length > 0;
 
+      const bohRecords = hasBoh ? parseRaw(bohText) : [];
+      const fohRecords = hasFoh ? parseRaw(fohText) : [];
+
+      // Build new calendar from pasted departments only
       const cal = {};
-      extractFromRecords(bohRecords, "boh", cal);
-      extractFromRecords(fohRecords, "foh", cal);
+      if (hasBoh) extractFromRecords(bohRecords, "boh", cal);
+      if (hasFoh) extractFromRecords(fohRecords, "foh", cal);
+      const newData = buildCalendarOutput(cal);
 
-      const calendarData = buildCalendarOutput(cal);
-      const dateCount = Object.keys(calendarData).length;
+      // Merge with existing calendar, preserving un-pasted departments
+      const existing = calendar || {};
+      const allDates = new Set([...Object.keys(existing), ...Object.keys(newData)]);
+      const merged = {};
+      const emptyDept = { approved: [], pending: [], count: 0 };
 
-      await updateStore(storeId, managementKey, storeName, calendarData);
+      for (const date of allDates) {
+        const ex = existing[date] || {};
+        const nw = newData[date] || {};
 
+        // Use new data for pasted dept; preserve existing for un-pasted dept
+        const boh = hasBoh ? (nw.boh || emptyDept) : (ex.boh || emptyDept);
+        const foh = hasFoh ? (nw.foh || emptyDept) : (ex.foh || emptyDept);
+
+        const hasContent =
+          boh.approved?.length || boh.pending?.length ||
+          foh.approved?.length || foh.pending?.length;
+        if (!hasContent) continue;
+
+        // Recompute "all" as union of boh + foh
+        const allApproved = [...new Set([...(boh.approved || []), ...(foh.approved || [])])].sort();
+        const allPending = [...new Set([...(boh.pending || []), ...(foh.pending || [])])].sort();
+
+        merged[date] = {
+          all: { approved: allApproved, pending: allPending, count: allApproved.length + allPending.length },
+          boh: { approved: boh.approved || [], pending: boh.pending || [], count: (boh.approved?.length || 0) + (boh.pending?.length || 0) },
+          foh: { approved: foh.approved || [], pending: foh.pending || [], count: (foh.approved?.length || 0) + (foh.pending?.length || 0) },
+        };
+      }
+
+      const dateCount = Object.keys(merged).length;
+      await updateStore(storeId, managementKey, storeName, merged);
+
+      const deptLabel = hasBoh && hasFoh ? `${bohRecords.length} BOH + ${fohRecords.length} FOH records`
+        : hasBoh ? `${bohRecords.length} BOH records (FOH preserved)`
+        : `${fohRecords.length} FOH records (BOH preserved)`;
       setStatus({
         type: "success",
-        message: `Updated! ${bohRecords.length} BOH + ${fohRecords.length} FOH records → ${dateCount} dates.`,
+        message: `Updated! ${deptLabel} → ${dateCount} dates.`,
       });
     } catch (err) {
       setStatus({
